@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__audio__speakerphone.html#ga18c37c223b7436c8682fda3e570341d3" title="AUDDSpeakerPhoneDriver_Initialize" alt="" coords="112,5,400,37"/>
+<area shape="rect" id="node5" href="$group__usbd__audio__speakerphone.html#ga82d0f6b436b86043552d1c12a3a577d7" title="AUDDSpeakerPhoneDriver_Read" alt="" coords="123,61,389,93"/>
+<area shape="rect" id="node7" href="$led_8h.html#a771437772006fafea906ca1613bb5593" title="LED_Configure" alt="" coords="189,117,323,149"/>
+<area shape="rect" id="node13" href="$pio__it_8h.html#ad31e05d6debb1e88af6124cd7751af22" title="Initializes the PIO interrupt management logic." alt="" coords="448,171,635,203"/>
+<area shape="rect" id="node17" href="$group__usbd__interface.html#ga71b9264662d74666e4b058984e3346e5" title="USBD_Connect" alt="" coords="188,224,324,256"/>
+<area shape="rect" id="node21" href="$group__usbd__interface.html#ga804bf63efb2d4420a3bf42984e807e72" title="USBD_GetState" alt="" coords="187,280,325,312"/>
+<area shape="rect" id="node23" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="195,336,317,368"/>
+<area shape="rect" id="node9" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="476,91,607,123"/>
+<area shape="rect" id="node11" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="683,131,875,163"/>
+<area shape="rect" id="node19" href="$group__usbd__hal.html#ga214508a8f0f824cdcf40bca9ddac10f6" title="Enable Pull&#45;up, connect." alt="" coords="453,227,629,259"/>
+</map>

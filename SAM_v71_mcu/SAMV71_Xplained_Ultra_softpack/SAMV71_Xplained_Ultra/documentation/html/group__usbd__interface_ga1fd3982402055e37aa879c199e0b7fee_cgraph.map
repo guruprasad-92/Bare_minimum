@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__hal.html#ga3699059b9b9b52b7e55af6d070a7fe61" title="USBD_HAL_Init" alt="" coords="191,5,329,37"/>
+<area shape="rect" id="node7" href="$group__usbd__interface.html#ga5579e02a71a8f510005e873fc50a0f4a" title="USBDCallbacks_Initialized" alt="" coords="153,61,367,93"/>
+<area shape="rect" id="node5" href="$group__usbd__hal.html#gaa9aba8ccdad2272b61db48b43466043b" title="Reset endpoints and disable them.Terminate transfer if there is any, with given status;Reset the endp..." alt="" coords="416,5,603,37"/>
+</map>

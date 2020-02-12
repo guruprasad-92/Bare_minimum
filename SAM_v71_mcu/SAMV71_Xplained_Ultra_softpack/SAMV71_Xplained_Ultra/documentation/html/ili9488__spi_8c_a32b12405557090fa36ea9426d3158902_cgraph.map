@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ili9488__spi__dma_8h.html#ab421358c70ab75d3d2a84b42a6fd56b3" title="Start ILI9488 DMA Rx transfer ." alt="" coords="273,61,495,93"/>
+<area shape="rect" id="node5" href="$ili9488__spi__dma_8h.html#a34f5366f54d7d9c2c0850657d1942388" title="Start ILI9488 DMA Rx transfer ." alt="" coords="545,5,767,37"/>
+<area shape="rect" id="node7" href="$ili9488__spi__dma_8h.html#a067d00bb29052bb27b00771d7f06efcd" title="Start ILI9488 DMA transfer ." alt="" coords="545,61,767,93"/>
+<area shape="rect" id="node9" href="$pio_8h.html#a2d4d88110e7ab4fc0732df6d35289e06" title="Sets a low output level on all the PIOs defined in the given Pin instance. This has no immediate effe..." alt="" coords="607,117,705,149"/>
+</map>

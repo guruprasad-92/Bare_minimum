@@ -1,0 +1,15 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usbd__audio__speakerphone.html" title="Usbd_audio_speakerphone" alt="" coords="311,5,529,37"/>
+<area shape="rect" id="node3" href="$group__usbd__composite__cdccdc.html" title="Usbd_composite_cdccdc" alt="" coords="317,61,523,93"/>
+<area shape="rect" id="node4" href="$group__usbd__cdc.html" title="Usbd_cdc" alt="" coords="373,117,467,149"/>
+<area shape="rect" id="node5" href="$group__usbd__audio__speaker.html" title="Usbd_audio_speaker" alt="" coords="333,173,507,205"/>
+<area shape="rect" id="node6" href="$group__usbd__composite__hidmsd.html" title="Usbd_composite_hidmsd" alt="" coords="319,229,521,261"/>
+<area shape="rect" id="node7" href="$group__usbd__composite__cdchid.html" title="Usbd_composite_cdchid" alt="" coords="320,285,520,317"/>
+<area shape="rect" id="node8" href="$group__usbd__hid__key.html" title="Usbd_hid_key" alt="" coords="357,341,483,373"/>
+<area shape="rect" id="node9" href="$group__usbd__msd.html" title="Usbd_msd" alt="" coords="371,397,469,429"/>
+<area shape="rect" id="node10" href="$group__usbd__hid__mouse.html" title="Usbd_hid_mouse" alt="" coords="347,453,493,485"/>
+<area shape="rect" id="node11" href="$group__usbd__hid__tran.html" title="Usbd_hid_tran" alt="" coords="357,509,483,541"/>
+<area shape="rect" id="node12" href="$group__usbd__eem.html" title="Usbd_eem" alt="" coords="371,565,469,597"/>
+<area shape="rect" id="node13" href="$group__usbd__composite__cdcaud.html" title="Usbd_composite_cdcaud" alt="" coords="317,621,523,653"/>
+<area shape="rect" id="node14" href="$group__usbd__composite__cdcmsd.html" title="Usbd_composite_cdcmsd" alt="" coords="316,677,524,709"/>
+</map>

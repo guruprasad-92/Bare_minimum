@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__audio__speakerphone.html#ga17c8f0de49847c1c6fcd8f2ca0ffad64" title="AUDDSpeakerPhoneDriver_RequestHandler" alt="" coords="325,5,669,37"/>
+<area shape="rect" id="node5" href="$group__usbd__interface.html#ga01ba3ff549b968edc152cdb23c2027d1" title="USBD_GetDriver" alt="" coords="425,61,569,93"/>
+<area shape="rect" id="node7" href="$group__usbd__interface.html#gaae0893893739fb365d088ea946cb2c89" title="USBDDriver_RequestHandler" alt="" coords="380,117,615,149"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__uiparp.html" title="uIP Address Resolution Protocol" alt="" coords="249,5,505,37"/>
+<area shape="rect" id="node2" href="$group__uipappfunc.html" title="uIP application functions" alt="" coords="277,61,477,93"/>
+<area shape="rect" id="node3" href="$group__uipsplit.html" title="uIP TCP throughput booster hack" alt="" coords="245,117,509,149"/>
+<area shape="rect" id="node4" href="$group__uiparch.html" title="Architecture specific uIP functions" alt="" coords="240,173,515,205"/>
+<area shape="rect" id="node5" href="$group__uipconvfunc.html" title="uIP conversion functions" alt="" coords="276,229,479,261"/>
+<area shape="rect" id="node7" href="$group__uipconffunc.html" title="uIP configuration functions" alt="" coords="268,285,487,317"/>
+<area shape="rect" id="node8" href="$group__uipfw.html" title="uIP packet forwarding" alt="" coords="287,341,468,373"/>
+<area shape="rect" id="node9" href="$group__uipdrivervars.html" title="Variables used in uIP device drivers" alt="" coords="236,397,519,429"/>
+<area shape="rect" id="node10" href="$group__uipinit.html" title="uIP initialization functions" alt="" coords="275,453,480,485"/>
+<area shape="rect" id="node11" href="$group__uipdevfunc.html" title="uIP device driver functions" alt="" coords="269,509,485,541"/>
+</map>

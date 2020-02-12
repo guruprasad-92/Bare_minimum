@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__aud__fun.html#ga5812f39713699ab88f15243d2e2bf143" title="AUDDFunction_Read" alt="" coords="131,5,309,37"/>
+<area shape="rect" id="node5" href="$group__usbd__composite__cdcaud.html#ga2d915234404b63bf5439b3bef75bfaae" title="CDCAUDDDriver_Initialize" alt="" coords="112,61,328,93"/>
+<area shape="rect" id="node7" href="$group__usbd__cdc.html#gacc5ca8c0214a9e7db56272e0d57c4237" title="CDCDSerial_Read" alt="" coords="141,117,299,149"/>
+<area shape="rect" id="node9" href="$led_8h.html#a771437772006fafea906ca1613bb5593" title="LED_Configure" alt="" coords="153,173,287,205"/>
+<area shape="rect" id="node15" href="$pio__it_8h.html#ad31e05d6debb1e88af6124cd7751af22" title="Initializes the PIO interrupt management logic." alt="" coords="376,240,563,272"/>
+<area shape="rect" id="node19" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="136,280,304,312"/>
+<area shape="rect" id="node21" href="$group__usbd__interface.html#ga71b9264662d74666e4b058984e3346e5" title="USBD_Connect" alt="" coords="152,336,288,368"/>
+<area shape="rect" id="node25" href="$group__usbd__interface.html#ga804bf63efb2d4420a3bf42984e807e72" title="USBD_GetState" alt="" coords="151,392,289,424"/>
+<area shape="rect" id="node27" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="159,448,281,480"/>
+<area shape="rect" id="node11" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="404,160,535,192"/>
+<area shape="rect" id="node13" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="611,200,803,232"/>
+<area shape="rect" id="node23" href="$group__usbd__hal.html#ga214508a8f0f824cdcf40bca9ddac10f6" title="Enable Pull&#45;up, connect." alt="" coords="381,336,557,368"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__rtc__module.html" title="Working with RTC" alt="" coords="340,5,495,37"/>
+<area shape="rect" id="node2" href="$group__dmac__module.html" title="Working with DMAC" alt="" coords="332,61,503,93"/>
+<area shape="rect" id="node3" href="$group__spi__module.html" title="Working with SPI" alt="" coords="343,117,492,149"/>
+<area shape="rect" id="node4" href="$group__aes__module.html" title="Working with AES" alt="" coords="340,173,495,205"/>
+<area shape="rect" id="node5" href="$group__gmac__module.html" title="Working with GMAC" alt="" coords="332,229,503,261"/>
+<area shape="rect" id="node6" href="$group__twi__module.html" title="Working with TWI" alt="" coords="341,285,493,317"/>
+<area shape="rect" id="node7" href="$group___a_f_e_c__module.html" title="Working with AFE" alt="" coords="340,341,495,373"/>
+<area shape="rect" id="node8" href="$group__media_l_b.html" title="Working with MediaLB" alt="" coords="324,397,511,429"/>
+<area shape="rect" id="node9" href="$group__ssc__module.html" title="Working with SSC" alt="" coords="340,453,495,485"/>
+<area shape="rect" id="node10" href="$group__rtng__module.html" title="Working with RTNG" alt="" coords="335,509,500,541"/>
+<area shape="rect" id="node12" href="$group__efc__module.html" title="Working with EEFC" alt="" coords="335,565,500,597"/>
+<area shape="rect" id="node13" href="$group__pmc__module.html" title="Working with PMC" alt="" coords="339,621,496,653"/>
+<area shape="rect" id="node14" href="$group__can__module.html" title="Working with CAN" alt="" coords="340,677,495,709"/>
+<area shape="rect" id="node15" href="$group__pio__capture__module.html" title="Working with PIO Parallel Capture Mode" alt="" coords="260,733,575,765"/>
+<area shape="rect" id="node16" href="$group__tc__module.html" title="Working with Timer Counter" alt="" coords="304,789,531,821"/>
+<area shape="rect" id="node17" href="$group__pwm__module.html" title="Working with PWM" alt="" coords="336,845,499,877"/>
+<area shape="rect" id="node18" href="$group__afe__dma__module.html" title="Working with AFE (DMA support)" alt="" coords="284,901,551,933"/>
+<area shape="rect" id="node19" href="$group__dacc__module.html" title="Working with DACC" alt="" coords="333,957,501,989"/>
+<area shape="rect" id="node20" href="$group__sdram__module.html" title="Working with SDRAMC" alt="" coords="321,1013,513,1045"/>
+<area shape="rect" id="node21" href="$group__rtt__module.html" title="Working with Real&#45;time Timer" alt="" coords="300,1069,535,1101"/>
+<area shape="rect" id="node22" href="$group__qspi__module.html" title="Working with QSPI" alt="" coords="337,1125,497,1157"/>
+<area shape="rect" id="node23" href="$group__acc__module.html" title="Working with ACC" alt="" coords="339,1181,496,1213"/>
+<area shape="rect" id="node24" href="$group__isi__module.html" title="Working with ISI" alt="" coords="347,1237,488,1269"/>
+<area shape="rect" id="node25" href="$group__icm__module.html" title="Working with ICM" alt="" coords="341,1293,493,1325"/>
+<area shape="rect" id="node26" href="$group__wdt__module.html" title="Working with WDT" alt="" coords="337,1349,497,1381"/>
+<area shape="rect" id="node27" href="$group__qspi__dma__module.html" title="QSPI xDMA driver" alt="" coords="340,1405,495,1437"/>
+</map>

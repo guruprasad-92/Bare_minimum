@@ -1,0 +1,12 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__group_stats.html" title="GroupStats" alt="" coords="271,5,372,37"/>
+<area shape="rect" id="node2" href="$group__group_controller.html" title="GroupController" alt="" coords="253,61,389,93"/>
+<area shape="rect" id="node3" href="$group__group_fast_math.html" title="GroupFastMath" alt="" coords="255,117,388,149"/>
+<area shape="rect" id="node4" href="$group__group_interpolation.html" title="GroupInterpolation" alt="" coords="244,173,399,205"/>
+<area shape="rect" id="node5" href="$group__group_support.html" title="GroupSupport" alt="" coords="260,229,383,261"/>
+<area shape="rect" id="node7" href="$group__group_cmplx_math.html" title="GroupCmplxMath" alt="" coords="248,285,395,317"/>
+<area shape="rect" id="node8" href="$group__group_filters.html" title="GroupFilters" alt="" coords="267,341,376,373"/>
+<area shape="rect" id="node9" href="$group__group_math.html" title="GroupMath" alt="" coords="271,397,372,429"/>
+<area shape="rect" id="node10" href="$group__group_matrix.html" title="GroupMatrix" alt="" coords="267,453,376,485"/>
+<area shape="rect" id="node11" href="$group__group_transforms.html" title="GroupTransforms" alt="" coords="247,509,396,541"/>
+</map>

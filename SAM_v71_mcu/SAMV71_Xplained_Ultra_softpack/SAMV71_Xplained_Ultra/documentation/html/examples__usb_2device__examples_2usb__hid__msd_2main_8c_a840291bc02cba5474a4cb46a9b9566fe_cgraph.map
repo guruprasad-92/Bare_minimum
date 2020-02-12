@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__composite__hidmsd.html#ga353527333aa384f7ffaa105ace23fcad" title="HIDMSDDriver_Initialize" alt="" coords="128,5,325,37"/>
+<area shape="rect" id="node5" href="$led_8h.html#a771437772006fafea906ca1613bb5593" title="LED_Configure" alt="" coords="160,61,293,93"/>
+<area shape="rect" id="node7" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="417,115,548,147"/>
+<area shape="rect" id="node11" href="$group__usbd__msd.html#ga33a2494c76dcc7335a458c79e46975d9" title="MSDFunction_StateMachine" alt="" coords="112,168,341,200"/>
+<area shape="rect" id="node14" href="$pio__it_8h.html#ad31e05d6debb1e88af6124cd7751af22" title="Initializes the PIO interrupt management logic." alt="" coords="389,207,576,239"/>
+<area shape="rect" id="node18" href="$group__usbd__interface.html#ga71b9264662d74666e4b058984e3346e5" title="USBD_Connect" alt="" coords="159,275,295,307"/>
+<area shape="rect" id="node22" href="$group__usbd__interface.html#ga804bf63efb2d4420a3bf42984e807e72" title="USBD_GetState" alt="" coords="157,331,296,363"/>
+<area shape="rect" id="node24" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="165,387,288,419"/>
+<area shape="rect" id="node9" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="624,161,816,193"/>
+<area shape="rect" id="node20" href="$group__usbd__hal.html#ga214508a8f0f824cdcf40bca9ddac10f6" title="Enable Pull&#45;up, connect." alt="" coords="395,275,571,307"/>
+</map>

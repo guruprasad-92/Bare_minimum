@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$iso7816__4_8c.html#af12c18fde545895ba0a29258ea3ae283" title="ISO7816_Datablock_ATR" alt="" coords="113,5,319,37"/>
+<area shape="rect" id="node5" href="$iso7816__4_8c.html#a0101c0fd3853b4fa86a606df7e3c1b09" title="ISO7816_Decode_ATR" alt="" coords="120,61,312,93"/>
+<area shape="rect" id="node7" href="$iso7816__4_8c.html#a31fe7825ff1becdc1db5069d4236b75c" title="ISO7816_Init" alt="" coords="157,173,275,205"/>
+<area shape="rect" id="node13" href="$iso7816__4_8c.html#ada6073c5627d625b66efa790414051ec" title="ISO7816_warm_reset" alt="" coords="127,229,305,261"/>
+<area shape="rect" id="node17" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="151,117,281,149"/>
+<area shape="rect" id="node20" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="155,285,277,317"/>
+<area shape="rect" id="node9" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="368,117,560,149"/>
+<area shape="rect" id="node11" href="$usart_8h.html#a6280c3578315c2a06e1857b7dca0c1be" title="Configures an USART peripheral with the specified parameters." alt="" coords="387,173,541,205"/>
+<area shape="rect" id="node15" href="$iso7816__4_8c.html#af4e4648dfca0ef0ed81f36ea040b5586" title="ISO7816_IccPowerOff" alt="" coords="371,229,557,261"/>
+</map>

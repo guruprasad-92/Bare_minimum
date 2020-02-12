@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga6013c7006f83c59d4895a92e3f473804" title="Enable MDI with PHY." alt="" coords="496,5,664,37"/>
+<area shape="rect" id="node5" href="$group__gmac__defines.html#gabf89fc2e0cb8e9ec7e0b99a5a14cae50" title="Enable MDI with PHY." alt="" coords="499,88,661,120"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#ga144f2054229d8431f26a425ff7fd1bef" title="Enable RGMII mode for GMAC, called once after auto negotiate." alt="" coords="260,88,433,120"/>
+<area shape="rect" id="node9" href="$gmacb__phy_8h.html#aced88b292369024663d7391ee02d2539" title="Dump all the useful registers." alt="" coords="247,32,447,64"/>
+</map>

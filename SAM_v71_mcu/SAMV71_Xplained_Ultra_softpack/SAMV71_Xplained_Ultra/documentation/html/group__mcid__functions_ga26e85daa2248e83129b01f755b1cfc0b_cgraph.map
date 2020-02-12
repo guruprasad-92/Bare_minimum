@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__hsmci__functions.html#ga9365f2817b47644f8c0f325a915fb141" title="Enable/Disable High&#45;Speed mode for MCI." alt="" coords="191,5,343,37"/>
+<area shape="rect" id="node5" href="$group__hsmci__functions.html#gad4ba27f7339c9558b66aef5d9ebf6cab" title="Check if High&#45;speed mode is enabled on MCI." alt="" coords="180,61,353,93"/>
+<area shape="rect" id="node7" href="$group__hsmci__functions.html#ga402f687cf0393baac08390e517e84033" title="Set bus width of MCI." alt="" coords="177,117,356,149"/>
+<area shape="rect" id="node9" href="$group__mcid__functions.html#gaa42ae91258675d685937a68c69b2afdf" title="MCID_CancelCmd" alt="" coords="443,227,600,259"/>
+<area shape="rect" id="node11" href="$group__mcid__functions.html#gae956aa6961d961be8d3791413d81497f" title="MCID_IsCmdCompleted" alt="" coords="168,173,365,205"/>
+<area shape="rect" id="node15" href="$group__mcid__functions.html#ga03c7b7af1b4abf00f759b0a47c476baf" title="MCID_Reset" alt="" coords="209,283,324,315"/>
+<area shape="rect" id="node13" href="$group__mcid__functions.html#ga8b24d6b7cbfd7240dc23dbd4c6759975" title="MCID_Handler" alt="" coords="457,171,585,203"/>
+<area shape="rect" id="node17" href="$group__hsmci__functions.html#gaf51e5a4c668bd49302fbab8329215445" title="Configures a MCI peripheral as specified." alt="" coords="424,395,619,427"/>
+<area shape="rect" id="node19" href="$group__hsmci__functions.html#gab17151fd3e0b1a81b78067b7f07b0424" title="Set block len &amp; count for transfer." alt="" coords="413,283,629,315"/>
+<area shape="rect" id="node21" href="$group__hsmci__functions.html#ga016a1f6f3a075807c55a2ad2cf23255a" title="Return mode register." alt="" coords="448,339,595,371"/>
+</map>

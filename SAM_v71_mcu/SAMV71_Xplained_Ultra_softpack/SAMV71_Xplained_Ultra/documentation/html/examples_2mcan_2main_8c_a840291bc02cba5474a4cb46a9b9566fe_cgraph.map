@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="228,5,353,37"/>
+<area shape="rect" id="node7" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="776,155,907,187"/>
+<area shape="rect" id="node12" href="$dbg__console_8h.html#a7585af50e201cf7f0d6bb1fba96b3915" title="Check if there is Input from UART line." alt="" coords="219,61,363,93"/>
+<area shape="rect" id="node15" href="$led_8h.html#a771437772006fafea906ca1613bb5593" title="LED_Configure" alt="" coords="556,168,689,200"/>
+<area shape="rect" id="node18" href="$led_8h.html#a7fd513ea5e027a30e20ef05242422f2a" title="LED_Toggle" alt="" coords="236,220,345,252"/>
+<area shape="rect" id="node26" href="$group__can__module.html#gace77a1a2cb9ad1ae872ce9d6a163f732" title="Adds Message to TX Fifo / Queue." alt="" coords="200,276,381,308"/>
+<area shape="rect" id="node28" href="$group__can__module.html#ga6e83faedb469981e30a552ab125ad181" title="Configure RX Buffer Filter ID must match exactly for a RX Buffer Filter." alt="" coords="179,332,403,364"/>
+<area shape="rect" id="node30" href="$group__can__module.html#ga1c6df6cc059e7246465ae919dc6dd995" title="Configure Classic Filter Classic Filters direct accepted messages to a FIFO &amp; include both a ID a..." alt="" coords="175,388,407,420"/>
+<area shape="rect" id="node32" href="$group__can__module.html#ga7188d34f789a5ba22b48cb650320c12e" title="Configures a Dedicated TX Buffer." alt="" coords="183,444,399,476"/>
+<area shape="rect" id="node34" href="$group__can__module.html#ga712fa4d48e3fd1365a08a91cd3932104" title="Enable MCAN peripheral. INIT must be set &#45; so this should be called between MCAN_Init()." alt="" coords="227,500,355,532"/>
+<area shape="rect" id="node36" href="$group__can__module.html#ga3c0b98bcf7b3c0520d70431cc72788cc" title="Get from the receive FIFO and place in a application mailbox." alt="" coords="193,556,388,588"/>
+<area shape="rect" id="node38" href="$group__can__module.html#ga51d74c9a24d0321d3a0846422f95c70a" title="Enable message line and message stored to Dedicated Receive Buffer Interrupt Line." alt="" coords="112,612,469,644"/>
+<area shape="rect" id="node40" href="$group__can__module.html#ga9b35cd79fb5eeec8cf1ba7247b25a646" title="Initializes the MCAN hardware for giving peripheral. Default: Mixed mode TX Buffer + FIFO..." alt="" coords="573,392,672,424"/>
+<area shape="rect" id="node44" href="$group__can__module.html#ga70121d88d13dc887de45ec346a080efb" title="Enables a FUTURE switch to FD mode (tx &amp; rx payloads up to 64 bytes) and transmits WITH bit rate ..." alt="" coords="156,719,425,751"/>
+<area shape="rect" id="node46" href="$group__can__module.html#ga97adc21dfdf714818018ae78b51bf02e" title="Initializes the MCAN in loop back mode. INIT must be set &#45; so this should be called between MCAN_Init..." alt="" coords="205,775,376,807"/>
+<area shape="rect" id="node48" href="$group__can__module.html#gaf7258e6de240c101aa46f33a26c87615" title="Initializes MCAN queue for TX INIT must be set &#45; so this should be called between MCAN_Init() and MCA..." alt="" coords="209,831,372,863"/>
+<area shape="rect" id="node50" href="$group__can__module.html#gaee6e3a1e95ef603e33da5421167ad776" title="Check if data transmitted from buffer/fifo/queue." alt="" coords="211,887,371,919"/>
+<area shape="rect" id="node52" href="$group__can__module.html#ga7e36eef54b4e8a426a10c540de9457be" title="Switch off loop back mode." alt="" coords="205,943,376,975"/>
+<area shape="rect" id="node54" href="$group__can__module.html#gac00448534ba8dbcf25329259d2312c10" title="Switch on loop back mode. TEST must be set in MCAN_CCCR &#45; e.g. by a prior call to MCAN_InitLoopback()..." alt="" coords="205,999,376,1031"/>
+<area shape="rect" id="node56" href="$group__can__module.html#gaa1d5fa926fb534c0dea67923865fb356" title="Request switch to FD mode (tx &amp; rx payloads up to 64 bytes) and transmits WITH bit rate switching..." alt="" coords="163,1055,419,1087"/>
+<area shape="rect" id="node58" href="$group__can__module.html#gac2744eec323b9b5ba844c433362d0501" title="Requests switch to Iso11898&#45;1 (standard / classic) mode (tx &amp; rx payloads up to 8 bytes)..." alt="" coords="180,1111,401,1143"/>
+<area shape="rect" id="node60" href="$group__can__module.html#gab682df72e52163a4bbd6f89fe25a2459" title="Send Tx buffer." alt="" coords="188,1167,393,1199"/>
+<area shape="rect" id="node63" href="$pio_8h.html#a1de94d9c6a29f9fa44e498e97edde1cc" title="Returns 1 if one or more PIO of the given Pin instance currently have a high level; otherwise returns..." alt="" coords="249,1223,332,1255"/>
+<area shape="rect" id="node65" href="$pio_8h.html#a61cee3d7257283e8de25c35bc8de1bc7" title="Configures Glitch or Denouncing filter for input." alt="" coords="193,1279,388,1311"/>
+<area shape="rect" id="node67" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="207,1335,375,1367"/>
+<area shape="rect" id="node69" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="229,1391,352,1423"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="553,61,692,93"/>
+<area shape="rect" id="node9" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="955,155,1147,187"/>
+<area shape="rect" id="node20" href="$pio_8h.html#a2d4d88110e7ab4fc0732df6d35289e06" title="Sets a low output level on all the PIOs defined in the given Pin instance. This has no immediate effe..." alt="" coords="573,224,672,256"/>
+<area shape="rect" id="node22" href="$pio_8h.html#a6226a6942c31e5f561c5e2b4d811f824" title="Returns 1 if one or more PIO of the given Pin are configured to output a high level (even if they are..." alt="" coords="517,280,728,312"/>
+<area shape="rect" id="node24" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="581,336,664,368"/>
+</map>

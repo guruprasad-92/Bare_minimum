@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$netif_8c.html#a5b19d4bb83409f81c5ab3cb96b6b65a6" title="netif_set_gw" alt="" coords="199,5,311,37"/>
+<area shape="rect" id="node5" href="$netif_8c.html#ae17baa14001e3f2b2d32d291ca00cf50" title="netif_set_ipaddr" alt="" coords="185,61,324,93"/>
+<area shape="rect" id="node7" href="$netif_8c.html#aa3898e2349ec4f25f8ca7abef4bcbbc2" title="netif_set_netmask" alt="" coords="179,117,331,149"/>
+</map>

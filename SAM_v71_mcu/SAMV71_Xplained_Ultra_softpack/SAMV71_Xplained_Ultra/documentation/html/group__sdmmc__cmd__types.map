@@ -1,0 +1,6 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__sdmmc__cmd.html" title="SD/MMC Lib Commands Definitions" alt="" coords="7,61,289,93"/>
+<area shape="rect" id="node2" href="$group__sdmmc__resp__struct.html" title="SD/MMC Responses Structs" alt="" coords="721,5,951,37"/>
+<area shape="rect" id="node3" href="$group__sdmmc__hal__def.html" title="SD/MMC Low Level Definitions" alt="" coords="713,61,959,93"/>
+<area shape="rect" id="node5" href="$group__sdmmc__struct__cmdarg.html" title="SD/MMC command arguments" alt="" coords="713,117,959,149"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__interface.html#ga01ba3ff549b968edc152cdb23c2027d1" title="USBD_GetDriver" alt="" coords="387,5,531,37"/>
+<area shape="rect" id="node5" href="$group__usbd__interface.html#gad846cf5a2a002f83abe01d17d233f644" title="USBD_Stall" alt="" coords="405,61,512,93"/>
+<area shape="rect" id="node9" href="$group__usbd__interface.html#gaae0893893739fb365d088ea946cb2c89" title="USBDDriver_RequestHandler" alt="" coords="341,117,576,149"/>
+<area shape="rect" id="node11" href="$group__usb__request.html#ga047e240a92a39eed9b3174d397498123" title="USBGenericRequest_GetLength" alt="" coords="332,173,585,205"/>
+<area shape="rect" id="node13" href="$group__usb__request.html#gace388a4d862a1a39dfce506fe4189e82" title="USBGenericRequest_GetRequest" alt="" coords="327,229,591,261"/>
+<area shape="rect" id="node15" href="$group__usb__request.html#ga5c2f01b3ad2dbd22cce9b97aa27ca975" title="USBGenericRequest_GetType" alt="" coords="337,285,580,317"/>
+<area shape="rect" id="node17" href="$group__usb__request.html#ga4eb32bff86dfd66c3ae0e9c1e3fd09e6" title="USBGenericRequest_GetValue" alt="" coords="336,341,581,373"/>
+<area shape="rect" id="node7" href="$group__usbd__hal.html#gad95d239687843031e2af3aac51ba33ad" title="USBD_HAL_Stall" alt="" coords="640,61,787,93"/>
+</map>

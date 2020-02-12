@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="237,5,429,37"/>
+<area shape="rect" id="node5" href="$spi_8h.html#a43013aa88577daf7494eec9bfc4359aa" title="Configures SPI chip select." alt="" coords="265,61,401,93"/>
+<area shape="rect" id="node7" href="$spi_8h.html#ad983db901253eb7cc58874a4d495a106" title="Enables a SPI peripheral." alt="" coords="280,117,387,149"/>
+<area shape="rect" id="node9" href="$group__dmad__functions.html#ga20bc2d5f85c7145a43d7ccd13b067e50" title="Start xDMA transfer." alt="" coords="241,173,425,205"/>
+<area shape="rect" id="node11" href="$group__dmac__functions.html#ga8eb1fcad768f58e147dbfada28379f0b" title="enables the relevant channel of given XDMAC." alt="" coords="477,145,677,177"/>
+<area shape="rect" id="node13" href="$group__dmac__functions.html#gadb74809f07d54268d7366c6354f4226a" title="Enables XDMAC global interrupt." alt="" coords="497,201,657,233"/>
+</map>

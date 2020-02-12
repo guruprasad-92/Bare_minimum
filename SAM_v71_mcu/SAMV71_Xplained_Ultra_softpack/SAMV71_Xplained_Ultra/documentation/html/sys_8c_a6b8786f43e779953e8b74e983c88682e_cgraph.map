@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sys_8c.html#ab7283ceade76cec6fca3190ff7495a14" title="sys_sem_wait_timeout" alt="" coords="160,61,344,93"/>
+<area shape="rect" id="node5" href="$sys_8c.html#a6c4530613bd616e719a295779b87ae5c" title="sys_sem_wait" alt="" coords="395,5,517,37"/>
+<area shape="rect" id="node7" href="$sys_8c.html#adf692523e81f71ee1b73e2b3f6b00095" title="sys_timeout" alt="" coords="403,61,509,93"/>
+<area shape="rect" id="node9" href="$sys_8c.html#a657749c83f09c63093a28d37215f7ba8" title="sys_untimeout" alt="" coords="393,117,519,149"/>
+</map>

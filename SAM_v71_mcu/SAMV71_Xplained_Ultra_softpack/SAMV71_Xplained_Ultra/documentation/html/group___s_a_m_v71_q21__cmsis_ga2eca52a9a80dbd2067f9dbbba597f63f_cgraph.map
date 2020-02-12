@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__cdc.html#gabd42b94ec8ef5a8e65f051ce30cb449a" title="CDCDSerialPort_Write" alt="" coords="208,5,397,37"/>
+<area shape="rect" id="node5" href="$group__usbd__composite__cdccdc.html#ga1e93b0d8c0a284b7479f227aaa2acb82" title="DUALCDCDDriver_GetSerialPort" alt="" coords="172,61,433,93"/>
+<area shape="rect" id="node7" href="$led_8h.html#a7fd513ea5e027a30e20ef05242422f2a" title="LED_Toggle" alt="" coords="248,117,357,149"/>
+<area shape="rect" id="node15" href="$rtc__calib_8h.html#a1b04a85158ab78507b4492acc1587d77" title="RTC calibration for Temperature or PPM drift." alt="" coords="212,173,393,205"/>
+<area shape="rect" id="node17" href="$group__dmac__functions.html#ga7b113c65d476c3ec05a1fc48d68ec985" title="Get the relevant channel&#39;s destination address of given XDMA." alt="" coords="177,229,428,261"/>
+<area shape="rect" id="node19" href="$group__dmad__functions.html#ga6be5cec75618250adb227d7588ae7078" title="Stop DMA transfer." alt="" coords="211,285,395,317"/>
+<area shape="rect" id="node9" href="$pio_8h.html#a2d4d88110e7ab4fc0732df6d35289e06" title="Sets a low output level on all the PIOs defined in the given Pin instance. This has no immediate effe..." alt="" coords="547,61,645,93"/>
+<area shape="rect" id="node11" href="$pio_8h.html#a6226a6942c31e5f561c5e2b4d811f824" title="Returns 1 if one or more PIO of the given Pin are configured to output a high level (even if they are..." alt="" coords="491,117,701,149"/>
+<area shape="rect" id="node13" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="555,173,637,205"/>
+<area shape="rect" id="node21" href="$group__dmac__functions.html#ga0e8c1a293606c436f4ec8197faeae9c4" title="Disables the relevant channel of given XDMAC." alt="" coords="495,229,697,261"/>
+<area shape="rect" id="node23" href="$group__dmac__functions.html#ga78c4725b239a4bff988309fe0bf8034a" title="Enable interrupt with mask on the relevant channel of given XDMA." alt="" coords="489,285,703,317"/>
+<area shape="rect" id="node25" href="$group__dmac__functions.html#ga1f9c0fc1111b5f8917921091d69a0cad" title="Get interrupt status for the relevant channel of given XDMA." alt="" coords="499,341,693,373"/>
+<area shape="rect" id="node27" href="$group__dmac__functions.html#gad262380a3acfc2a2a7481bbecfef1d39" title="Get Global channel status of given XDMAC." alt="" coords="483,397,709,429"/>
+</map>

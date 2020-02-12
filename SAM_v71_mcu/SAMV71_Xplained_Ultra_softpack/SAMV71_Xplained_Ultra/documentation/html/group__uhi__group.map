@@ -1,0 +1,6 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__uhi__msc__group.html" title="UHI for Mass Storage Class" alt="" coords="513,5,737,37"/>
+<area shape="rect" id="node3" href="$group__uhi__cdc__group.html" title="UHI for Communication Device Class" alt="" coords="480,61,771,93"/>
+<area shape="rect" id="node5" href="$group__uhi__hid__mouse__group.html" title="UHI for Human Interface Device Mouse Class" alt="" coords="449,117,801,149"/>
+<area shape="rect" id="node4" href="$group__usb__host__group.html" title="USB Stack Host" alt="" coords="5,61,144,93"/>
+</map>

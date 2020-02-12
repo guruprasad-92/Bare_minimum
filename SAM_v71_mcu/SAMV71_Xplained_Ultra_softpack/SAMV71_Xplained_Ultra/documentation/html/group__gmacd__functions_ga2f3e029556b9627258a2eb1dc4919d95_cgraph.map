@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__gmacd__functions.html#ga4dade176be1ff02c5dfb6371d873b5ed" title="Send a frame split into buffers. If the frame size is larger than transfer buffer size error returned..." alt="" coords="184,33,336,65"/>
+<area shape="rect" id="node5" href="$group__gmacd__defines.html#gaf792223e30acf40b9e7a67f080f807e8" title="fixed_mod" alt="" coords="441,5,537,37"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#ga8f5a1bfd6e130370cda5f9f15b99d4aa" title="GMAC_TransmissionStart" alt="" coords="385,61,593,93"/>
+</map>

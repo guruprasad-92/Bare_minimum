@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ili9488__ebi_8h.html#a26b20d42c2e1d5b63df5c8883af3f2be" title="Initialize the ILI9488 controller in SMC mode." alt="" coords="240,75,408,107"/>
+<area shape="rect" id="node11" href="$ili9488__ebi_8h.html#ab1494aab036e82b42e363521459b6a11" title="ILI9488 configure landscape. &#160;dwRGB RGB mode. &#160;LandscaprMode Landscape Mode." alt="" coords="191,157,457,189"/>
+<area shape="rect" id="node13" href="$ili9488__spi_8h.html#ac1b668603c0526f8fc04d14f075965fa" title="Initialize the ILI9488 controller in SPI/SMC mode." alt="" coords="240,213,408,245"/>
+<area shape="rect" id="node23" href="$ili9488__spi_8h.html#a464522ed5e56d19b2c337931fad4faa9" title="ILI9488 configure landscape. &#160;dwRGB RGB mode. &#160;LandscaprMode Landscape Mode." alt="" coords="191,295,457,327"/>
+<area shape="rect" id="node5" href="$ili9488__ebi__dma_8h.html#a4754a7214fb8b2fe1aba7e6ed2eb4f8b" title="Initialize ILI9488 driver with DMA support." alt="" coords="507,5,744,37"/>
+<area shape="rect" id="node7" href="$ili9488__ebi_8h.html#a8afd5ec47d16eceaa83c03a71d2ff43e" title="Set ILI9488 Pixel Format in SMC mode." alt="" coords="516,61,735,93"/>
+<area shape="rect" id="node9" href="$timetick_8h.html#a2b6066c4eacf5089da661bd9e13bc9ed" title="Sync Wait for several ms." alt="" coords="597,117,653,149"/>
+<area shape="rect" id="node15" href="$ili9488__spi__dma_8h.html#af44362bdb340b375413a025e33cc7e7f" title="Initialize ILI9488 driver with DMA support." alt="" coords="507,173,744,205"/>
+<area shape="rect" id="node17" href="$ili9488__spi__dma_8h.html#ab421358c70ab75d3d2a84b42a6fd56b3" title="Start ILI9488 DMA Rx transfer ." alt="" coords="793,280,1015,312"/>
+<area shape="rect" id="node19" href="$ili9488__spi_8h.html#a32b12405557090fa36ea9426d3158902" title="Set ILI9488 Pixel Format in SPI/SMC mode." alt="" coords="516,280,735,312"/>
+</map>

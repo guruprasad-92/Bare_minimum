@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__uhi__msc__group.html#ga5da9d100f90027db04910efe08c4a057" title="Gives the number of LUN available Note: A LUN can be available, but with a status LUN_NOT_PRESENT..." alt="" coords="259,5,403,37"/>
+<area shape="rect" id="node5" href="$group__uhi__msc__group.html#ga2e7cf8daaa331de6b805e644955f0045" title="Tests if the interface UHI Mass Storage is available The UHI Mass Storage can be busy during the enum..." alt="" coords="244,61,417,93"/>
+</map>

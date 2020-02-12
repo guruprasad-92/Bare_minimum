@@ -1,0 +1,17 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usb__audio__ch__loc.html" title="USB Audio Channel spatial locations" alt="" coords="379,5,664,37"/>
+<area shape="rect" id="node2" href="$group__usb__audio__lock__delay.html" title="USB Audio Lock delay units" alt="" coords="409,61,633,93"/>
+<area shape="rect" id="node3" href="$group__usb__audio__ctrl__sel.html" title="USB Audio Control selector values" alt="" coords="387,117,656,149"/>
+<area shape="rect" id="node4" href="$group__usb__audio__stream__if.html" title="USB Audio streaming interface codes" alt="" coords="373,173,669,205"/>
+<area shape="rect" id="node5" href="$group__usb__audio__desc__subtype.html" title="USB Audio descriptor subtypes" alt="" coords="396,229,647,261"/>
+<area shape="rect" id="node6" href="$group__usb__audio__desc.html" title="USB Audio Descriptors" alt="" coords="427,285,616,317"/>
+<area shape="rect" id="node7" href="$group__usb__audio__in__term.html" title="USB Audio Input terminal types" alt="" coords="397,341,645,373"/>
+<area shape="rect" id="node8" href="$group__usb__audio__ch__ctrl.html" title="USB Audio Channel controls" alt="" coords="407,397,636,429"/>
+<area shape="rect" id="node9" href="$group__usb__audio__out__term.html" title="USB Audio Output terminal types" alt="" coords="392,453,651,485"/>
+<area shape="rect" id="node10" href="$group__usb__audio__request.html" title="USB Audio request codes" alt="" coords="416,509,627,541"/>
+<area shape="rect" id="node11" href="$group__usb__audio__class__ver.html" title="USB Audio class releases" alt="" coords="416,565,627,597"/>
+<area shape="rect" id="node13" href="$group__usb__audio__ctrl__if.html" title="USB Audio Control Interface" alt="" coords="407,621,636,653"/>
+<area shape="rect" id="node15" href="$group__usb__audio__desc__type.html" title="USB Audio descriptor types" alt="" coords="409,677,633,709"/>
+<area shape="rect" id="node16" href="$group__usb__audio__stream__subtype.html" title="USB Audio streaming descriptor subtypes" alt="" coords="359,733,684,765"/>
+<area shape="rect" id="node14" href="$group__usb__device__stack.html" title="USB Stack Device" alt="" coords="7,369,161,401"/>
+</map>

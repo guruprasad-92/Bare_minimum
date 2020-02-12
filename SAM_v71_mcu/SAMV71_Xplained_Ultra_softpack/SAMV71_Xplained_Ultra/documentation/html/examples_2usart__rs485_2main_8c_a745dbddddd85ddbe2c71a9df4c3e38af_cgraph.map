@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="268,5,460,37"/>
+<area shape="rect" id="node5" href="$usart_8h.html#a6280c3578315c2a06e1857b7dca0c1be" title="Configures an USART peripheral with the specified parameters." alt="" coords="287,61,441,93"/>
+<area shape="rect" id="node9" href="$usart_8h.html#a246df8753ea10e0ac19913c1dac062fb" title="Enables or disables the receiver of an USART peripheral." alt="" coords="249,117,479,149"/>
+<area shape="rect" id="node11" href="$usart_8h.html#a18a00bc79be656904ce8c7043f4c6d19" title="Enables or disables the transmitter of an USART peripheral." alt="" coords="240,173,488,205"/>
+<area shape="rect" id="node7" href="$usart_8h.html#a2c462751711f86351d7f6503ff6c2063" title="Configures an USART baudrate." alt="" coords="537,61,711,93"/>
+</map>

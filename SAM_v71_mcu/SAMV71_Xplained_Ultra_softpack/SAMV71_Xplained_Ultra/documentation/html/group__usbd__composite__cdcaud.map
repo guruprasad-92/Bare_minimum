@@ -1,0 +1,9 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usbd__audio__speakerphone.html" title="Usbd_audio_speakerphone" alt="" coords="881,57,1100,89"/>
+<area shape="rect" id="node2" href="$group__usb__descriptors.html" title="Common&#45;used USB Descriptors" alt="" coords="7,239,260,271"/>
+<area shape="rect" id="node3" href="$group__usbd__cdc__aud__dev__codes.html" title="CDC(Serial) + Audio(Speaker) Device Codes" alt="" coords="813,113,1168,145"/>
+<area shape="rect" id="node4" href="$group__usbd__composite__hidaud.html" title="Usbd_composite_hidaud" alt="" coords="891,193,1091,225"/>
+<area shape="rect" id="node5" href="$group__usbd__audio__speaker.html" title="Usbd_audio_speaker" alt="" coords="904,277,1077,309"/>
+<area shape="rect" id="node6" href="$group__usbd__cdc__aud__desc.html" title="USB CDC(Serial) + AUD(Speaker) Definitions" alt="" coords="812,333,1169,365"/>
+<area shape="rect" id="node7" href="$group__usbd__cdc__aud__eps.html" title="CDC(Serial) + Audio(Speaker) Endpoints" alt="" coords="829,389,1152,421"/>
+</map>

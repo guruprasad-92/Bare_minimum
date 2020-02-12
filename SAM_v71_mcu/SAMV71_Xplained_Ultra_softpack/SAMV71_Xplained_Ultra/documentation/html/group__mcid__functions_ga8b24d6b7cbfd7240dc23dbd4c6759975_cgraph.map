@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__hsmci__functions.html#ga273099b0076489b4216672fb85d8a813" title="Disable one or more interrupt sources of MCI peripheral." alt="" coords="201,5,348,37"/>
+<area shape="rect" id="node5" href="$group__hsmci__functions.html#gae4fc955f147a6f1fa8d8c511e7f9f4f6" title="Return the interrupt mask register." alt="" coords="197,61,352,93"/>
+<area shape="rect" id="node7" href="$group__hsmci__functions.html#gafb6f3467813115f494f67c125f821264" title="Return the response register." alt="" coords="185,117,364,149"/>
+<area shape="rect" id="node9" href="$group__hsmci__functions.html#ga7395ec7b356ef056f786107518137a56" title="Return the status register." alt="" coords="199,173,351,205"/>
+</map>

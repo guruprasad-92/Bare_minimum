@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="245,5,328,37"/>
+<area shape="rect" id="node5" href="$spi_8h.html#a564ab3c6c710a126ae9fc731e46c1294" title="Sends data through a SPI peripheral. If the SPI is configured to use a fixed peripheral select..." alt="" coords="237,61,336,93"/>
+</map>

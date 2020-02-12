@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$pmc_8c.html#a42c60c846653995b36b8e76330895326" title="Selection of Master Clock." alt="" coords="284,5,471,37"/>
+<area shape="rect" id="node5" href="$pmc_8c.html#a009f9a3d93428949ca9259f4761381a1" title="Configure PLLA clock by giving MUL and DIV. Disable PLLA when &#39;mul&#39; set to 0..." alt="" coords="299,61,456,93"/>
+</map>

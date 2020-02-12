@@ -1,0 +1,12 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node2" href="$group__xdmad__module.html" title="Xdmad_module" alt="" coords="499,5,632,37"/>
+<area shape="rect" id="node3" href="$group__dmac__defines.html" title="DMAC Definitions" alt="" coords="489,61,641,93"/>
+<area shape="rect" id="node4" href="$group__uart__dma__module.html" title="UART xDMA driver" alt="" coords="487,117,644,149"/>
+<area shape="rect" id="node5" href="$group__dmac__functions.html" title="XDMAC Functions" alt="" coords="487,173,644,205"/>
+<area shape="rect" id="node7" href="$group__sdmad__module.html" title="XDMA Drivers" alt="" coords="503,229,628,261"/>
+<area shape="rect" id="node8" href="$group__spi__dma__module.html" title="SPI xDMA driver" alt="" coords="495,285,636,317"/>
+<area shape="rect" id="node9" href="$group__xdmad__dma__module.html" title="Xdmad_dma_module" alt="" coords="479,341,652,373"/>
+<area shape="rect" id="node10" href="$group__usart__dma__module.html" title="USART xDMA driver" alt="" coords="481,397,649,429"/>
+<area shape="rect" id="node11" href="$group__dmad__module.html" title="Dmad_module" alt="" coords="503,453,628,485"/>
+<area shape="rect" id="node6" href="$group__peripherals__module.html" title="Working with Peripherals" alt="" coords="5,229,211,261"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usbd__audio__speakerphone.html" title="Usbd_audio_speakerphone" alt="" coords="881,49,1100,81"/>
+<area shape="rect" id="node3" href="$group__usbd__audio__speaker.html" title="Usbd_audio_speaker" alt="" coords="904,160,1077,192"/>
+<area shape="rect" id="node5" href="$group__usbd__composite__cdcaud.html" title="Usbd_composite_cdcaud" alt="" coords="888,251,1093,283"/>
+<area shape="rect" id="node6" href="$group__usbd__hid__aud__desc.html" title="USB HID(Keyboard) + AUD(Speaker) Definitions" alt="" coords="801,307,1180,339"/>
+<area shape="rect" id="node4" href="$group__usb__device__stack.html" title="USB Stack Device" alt="" coords="7,205,161,237"/>
+</map>

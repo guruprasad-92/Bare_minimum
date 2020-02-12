@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga409a1719b06569ad5f4efe03d21ab1dd" title="GMAC_ClearRxStatus" alt="" coords="200,5,381,37"/>
+<area shape="rect" id="node5" href="$group__gmac__defines.html#ga9e845a27fa9a4f30f4f53684ca5934c5" title="GMAC_GetItStatus" alt="" coords="212,61,369,93"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#gacf2a7803b8177d1ec6837d76de5c5e7a" title="GMAC_GetRxStatus" alt="" coords="208,117,373,149"/>
+</map>

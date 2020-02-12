@@ -1,0 +1,9 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node2" href="$group___s_a_m_v71_j20__base.html" title="Peripheral Base Address Definitions" alt="" coords="503,5,788,37"/>
+<area shape="rect" id="node3" href="$group___s_a_m_v71_j20__pio.html" title="Peripheral Pio Definitions" alt="" coords="541,61,749,93"/>
+<area shape="rect" id="node5" href="$group___s_a_m_v71_j20__api.html" title="Peripheral Software API" alt="" coords="547,117,744,149"/>
+<area shape="rect" id="node6" href="$group___s_a_m_v71_j20__cmsis.html" title="CMSIS Definitions" alt="" coords="568,173,723,205"/>
+<area shape="rect" id="node7" href="$group___s_a_m_v71_j20__reg.html" title="Registers Access Definitions" alt="" coords="531,229,760,261"/>
+<area shape="rect" id="node8" href="$group___s_a_m_v71_j20__id.html" title="Peripheral Ids Definitions" alt="" coords="543,285,748,317"/>
+<area shape="rect" id="node4" href="$group__sam__chip__definitions.html" title="Definitions for SAM chips" alt="" coords="5,145,213,177"/>
+</map>

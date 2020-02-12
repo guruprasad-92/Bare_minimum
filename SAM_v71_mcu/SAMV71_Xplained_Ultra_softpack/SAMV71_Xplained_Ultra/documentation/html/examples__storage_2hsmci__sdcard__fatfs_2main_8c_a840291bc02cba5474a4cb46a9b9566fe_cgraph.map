@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="112,5,280,37"/>
+<area shape="rect" id="node5" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="135,61,257,93"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usb__descriptor.html" title="USB Descriptors" alt="" coords="373,5,517,37"/>
+<area shape="rect" id="node2" href="$group__usb__request.html" title="USB Requests" alt="" coords="383,61,508,93"/>
+<area shape="rect" id="node4" href="$group__usb__device__stack.html" title="USB Stack Device" alt="" coords="7,33,161,65"/>
+</map>

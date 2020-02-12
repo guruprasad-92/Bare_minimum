@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__hsmci__functions.html#gaf51e5a4c668bd49302fbab8329215445" title="Configures a MCI peripheral as specified." alt="" coords="179,5,373,37"/>
+<area shape="rect" id="node5" href="$group__hsmci__functions.html#gab17151fd3e0b1a81b78067b7f07b0424" title="Set block len &amp; count for transfer." alt="" coords="168,61,384,93"/>
+<area shape="rect" id="node7" href="$group__hsmci__functions.html#ga016a1f6f3a075807c55a2ad2cf23255a" title="Return mode register." alt="" coords="203,117,349,149"/>
+<area shape="rect" id="node9" href="$group__mcid__functions.html#gaa42ae91258675d685937a68c69b2afdf" title="MCID_CancelCmd" alt="" coords="197,173,355,205"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__sdio__meta__def.html" title="SDIO Card Metaformat" alt="" coords="423,5,612,37"/>
+<area shape="rect" id="node2" href="$group__sdmmc__api.html" title="SD/MMC APIs" alt="" coords="5,117,133,149"/>
+<area shape="rect" id="node3" href="$group__sdio__fun__def.html" title="SDIO Functions" alt="" coords="448,61,587,93"/>
+<area shape="rect" id="node4" href="$group__sdio__status.html" title="SDIO Status bits" alt="" coords="447,117,588,149"/>
+<area shape="rect" id="node6" href="$group__sdio__cccr__def.html" title="SDIO Card Common Control Registers (CCCR)" alt="" coords="335,173,700,205"/>
+<area shape="rect" id="node7" href="$group__sdio__fbr__def.html" title="SDIO Function Basic Registers (FBR)" alt="" coords="368,229,667,261"/>
+</map>

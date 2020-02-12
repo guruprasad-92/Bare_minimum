@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga7ada4663e83402d9ca6da62f166e115f" title="GMAC_EnableIt" alt="" coords="277,5,416,37"/>
+<area shape="rect" id="node5" href="$group__gmac__defines.html#ga3caa9d3dc5ec1e3e32e9e017702ef51e" title="GMAC_ReceiveEnable" alt="" coords="253,61,440,93"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#gab9a3c958b148a17ac3bff5cbc107b3bc" title="GMAC_SetDMAConfig" alt="" coords="253,117,440,149"/>
+<area shape="rect" id="node9" href="$group__gmac__defines.html#gaf6fe272b7c94b53548c728c9b336cc5e" title="GMAC_StatisticsWriteEnable" alt="" coords="229,173,464,205"/>
+<area shape="rect" id="node11" href="$group__gmac__defines.html#ga43e952eb0a8ec8d8131ac69b6a30842d" title="GMAC_TransmitEnable" alt="" coords="252,229,441,261"/>
+</map>

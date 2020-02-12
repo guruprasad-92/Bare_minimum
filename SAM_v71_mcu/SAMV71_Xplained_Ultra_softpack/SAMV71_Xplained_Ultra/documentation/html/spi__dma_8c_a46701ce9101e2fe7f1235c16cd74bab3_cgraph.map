@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$spi_8h.html#a0ebb1d25f8889b00a9dd846059456175" title="Configures a SPI peripheral as specified. The configuration can be computed using several macros (see..." alt="" coords="197,5,328,37"/>
+<area shape="rect" id="node5" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="376,5,568,37"/>
+</map>

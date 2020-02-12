@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$qspi_8c.html#afde5ea34d85fcecb4a538250325d3c6c" title="Configures instruction register with a given command for QSPI." alt="" coords="261,5,381,37"/>
+<area shape="rect" id="node5" href="$qspi_8c.html#ae03b55a11d8a50d01e87f7398caa413c" title="Configures a instruction address for QSPI in QSPI mode." alt="" coords="244,61,399,93"/>
+<area shape="rect" id="node7" href="$qspi_8c.html#ab6228d04866fe8947d7fafd5d04b65cf" title="Configures instruction frame register of QSPI." alt="" coords="239,117,404,149"/>
+</map>

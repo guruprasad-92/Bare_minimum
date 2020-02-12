@@ -1,0 +1,14 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node3" href="$group__mmc__ext__csd.html" title="MMC Extended CSD byte fields" alt="" coords="543,5,793,37"/>
+<area shape="rect" id="node4" href="$group__sdmmc__cid__acc.html" title="SD/MMC CID register fields" alt="" coords="556,61,780,93"/>
+<area shape="rect" id="node5" href="$group__sd__cmd8.html" title="SD CMD8 arguments" alt="" coords="580,117,756,149"/>
+<area shape="rect" id="node6" href="$group__sd__scr__acc.html" title="SD SCR register fields" alt="" coords="575,173,761,205"/>
+<area shape="rect" id="node7" href="$group__sdmmc__csd__acc.html" title="SD/MMC CSD register fields" alt="" coords="553,229,783,261"/>
+<area shape="rect" id="node8" href="$group__sdmmc__sd__status.html" title="SD/MMC status fields" alt="" coords="579,285,757,317"/>
+<area shape="rect" id="node9" href="$group__sd__card__status__acc.html" title="SD Card Status fields" alt="" coords="579,341,757,373"/>
+<area shape="rect" id="node10" href="$group__sd__switch__status.html" title="SD Switch Status fields" alt="" coords="573,397,763,429"/>
+<area shape="rect" id="node11" href="$group__sdmmc__stream__acc.html" title="SD/MMC bits/bytes fields access" alt="" coords="537,453,799,485"/>
+<area shape="rect" id="node12" href="$group__sdmmc__ocr__acc.html" title="SD/MMC OCR register fields (SD 2.0 &amp; MMC 4.3)" alt="" coords="475,509,861,541"/>
+<area shape="rect" id="node2" href="$group__sdmmc__api.html" title="SD/MMC APIs" alt="" coords="20,229,148,261"/>
+<area shape="rect" id="node13" href="$group__libsdmmc__module.html" title="Libsdmmc_module" alt="" coords="5,285,163,317"/>
+</map>

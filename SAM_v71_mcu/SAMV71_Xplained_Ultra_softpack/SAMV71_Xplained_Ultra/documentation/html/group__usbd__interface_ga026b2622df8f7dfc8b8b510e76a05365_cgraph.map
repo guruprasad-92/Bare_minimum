@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__hal.html#gaf17d4fe67932fa6a5dcc05f4c6d611ff" title="USBD_HAL_ConfigureEP" alt="" coords="267,89,477,121"/>
+<area shape="rect" id="node5" href="$group__usb__descriptor.html#ga4be14e7e4e819fbc63530cf1eb32efd1" title="USBEndpointDescriptor_GetDirection" alt="" coords="549,5,843,37"/>
+<area shape="rect" id="node7" href="$group__usb__descriptor.html#gad78fdcaf97fc4069be7995caccb1e9ca" title="USBEndpointDescriptor_GetMaxPacketSize" alt="" coords="527,61,865,93"/>
+<area shape="rect" id="node9" href="$group__usb__descriptor.html#ga13a7c1d2365ab7e0d6a8f70681b1a018" title="USBEndpointDescriptor_GetNumber" alt="" coords="553,117,839,149"/>
+<area shape="rect" id="node11" href="$group__usb__descriptor.html#ga4bff8a54ec871a1e3a4008ce41219ea9" title="USBEndpointDescriptor_GetType" alt="" coords="564,173,828,205"/>
+</map>

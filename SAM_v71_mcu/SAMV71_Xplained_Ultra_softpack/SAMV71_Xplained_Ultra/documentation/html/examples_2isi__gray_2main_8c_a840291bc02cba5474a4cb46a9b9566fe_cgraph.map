@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$board__memories_8h.html#a0e0e3f4ee2328faeb9f45c5fc591f8de" title="Configures the EBI for SDRAM (IS42S16100E&#45;7B) access." alt="" coords="112,32,320,64"/>
+<area shape="rect" id="node10" href="$isi_8h.html#a73a6e1086137b01c6e18e21099bb8e4e" title="Disable ISI interrupt." alt="" coords="133,112,299,144"/>
+<area shape="rect" id="node13" href="$isi_8h.html#a7e4a111268404d2b8c44fb6f01f36583" title="Disable ISI Dma channel." alt="" coords="116,192,316,224"/>
+<area shape="rect" id="node16" href="$isi_8h.html#a4388c0ed23cbc178ab5136374d59d8ae" title="Enable ISI Dma channel." alt="" coords="119,272,313,304"/>
+<area shape="rect" id="node19" href="$isi_8h.html#a906865a51524230fa425188baf4fb689" title="Enable ISI." alt="" coords="165,352,267,384"/>
+<area shape="rect" id="node22" href="$isi_8h.html#a96466f4a7e87ef40ea463ea7fb78cab1" title="Enable ISI interrupt." alt="" coords="135,432,297,464"/>
+<area shape="rect" id="node25" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="175,488,257,520"/>
+<area shape="rect" id="node27" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="132,544,300,576"/>
+<area shape="rect" id="node29" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="155,600,277,632"/>
+<area shape="rect" id="node5" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="368,5,499,37"/>
+<area shape="rect" id="node7" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="547,32,739,64"/>
+</map>

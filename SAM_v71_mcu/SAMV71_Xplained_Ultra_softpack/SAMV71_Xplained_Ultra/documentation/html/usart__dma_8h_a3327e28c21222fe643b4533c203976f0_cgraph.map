@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="221,5,413,37"/>
+<area shape="rect" id="node5" href="$usart_8h.html#a6280c3578315c2a06e1857b7dca0c1be" title="Configures an USART peripheral with the specified parameters." alt="" coords="240,61,395,93"/>
+<area shape="rect" id="node9" href="$group__dmad__functions.html#ga8c7517080f70e93096364e916af6e6f2" title="Initialize xDMA driver instance." alt="" coords="243,117,392,149"/>
+<area shape="rect" id="node7" href="$usart_8h.html#a2c462751711f86351d7f6503ff6c2063" title="Configures an USART baudrate." alt="" coords="463,61,636,93"/>
+<area shape="rect" id="node11" href="$group__dmac__functions.html#ga601f8b23ff2c1b632f4a905c5bbed8ce" title="Get XDMAC global type." alt="" coords="475,117,624,149"/>
+</map>

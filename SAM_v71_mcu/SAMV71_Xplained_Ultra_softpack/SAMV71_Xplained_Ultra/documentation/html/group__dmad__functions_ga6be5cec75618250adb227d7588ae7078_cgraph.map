@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__dmac__functions.html#ga0e8c1a293606c436f4ec8197faeae9c4" title="Disables the relevant channel of given XDMAC." alt="" coords="249,5,452,37"/>
+<area shape="rect" id="node5" href="$group__dmac__functions.html#ga78c4725b239a4bff988309fe0bf8034a" title="Enable interrupt with mask on the relevant channel of given XDMA." alt="" coords="244,61,457,93"/>
+<area shape="rect" id="node7" href="$group__dmac__functions.html#ga1f9c0fc1111b5f8917921091d69a0cad" title="Get interrupt status for the relevant channel of given XDMA." alt="" coords="253,117,448,149"/>
+<area shape="rect" id="node9" href="$group__dmac__functions.html#gad262380a3acfc2a2a7481bbecfef1d39" title="Get Global channel status of given XDMAC." alt="" coords="237,173,464,205"/>
+</map>

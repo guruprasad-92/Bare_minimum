@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__dmac__functions.html#ga78c4725b239a4bff988309fe0bf8034a" title="Enable interrupt with mask on the relevant channel of given XDMA." alt="" coords="331,5,544,37"/>
+<area shape="rect" id="node5" href="$group__dmac__functions.html#ga7d2ecc01028025ebdbd5a31a9efeb08e" title="Disable interrupt with mask on the relevant channel of given XDMA." alt="" coords="333,61,541,93"/>
+<area shape="rect" id="node7" href="$group__dmac__functions.html#ga1f9c0fc1111b5f8917921091d69a0cad" title="Get interrupt status for the relevant channel of given XDMA." alt="" coords="340,117,535,149"/>
+<area shape="rect" id="node9" href="$group__dmac__functions.html#ga86b68edc3cf54526056c6dcccb646ec9" title="Set block length for the relevant channel of given XDMA." alt="" coords="335,173,540,205"/>
+<area shape="rect" id="node11" href="$group__dmac__functions.html#gae2acce4d8101a30f3090d6d0d636a919" title="Set configuration for the relevant channel of given XDMA." alt="" coords="327,229,548,261"/>
+<area shape="rect" id="node13" href="$group__dmac__functions.html#ga4d9707047dee545660f2ad6e851f9095" title="Set the relevant channel&#39;s data stride memory pattern of given XDMA." alt="" coords="295,285,580,317"/>
+<area shape="rect" id="node15" href="$group__dmac__functions.html#ga9aa1514d167d3e84e0baf8e3bfc1e7ba" title="Set next descriptor&#39;s address &amp; interface for the relevant channel of given XDMA..." alt="" coords="325,341,549,373"/>
+<area shape="rect" id="node17" href="$group__dmac__functions.html#ga6774da09c6d1694354385b930009c057" title="Set next descriptor&#39;s configuration for the relevant channel of given XDMA." alt="" coords="316,397,559,429"/>
+<area shape="rect" id="node19" href="$group__dmac__functions.html#gaca7a04b72e48d4b3a4144e27dc36d536" title="Set destination address for the relevant channel of given XDMA." alt="" coords="323,453,552,485"/>
+<area shape="rect" id="node21" href="$group__dmac__functions.html#ga156877fa3515835c8433121d76c4563b" title="Set the relevant channel&#39;s destination microblock stride of given XDMA." alt="" coords="279,509,596,541"/>
+<area shape="rect" id="node23" href="$group__dmac__functions.html#gada8783f9cca205b715f110f0c03d6518" title="Set microblock length for the relevant channel of given XDMA." alt="" coords="315,565,560,597"/>
+<area shape="rect" id="node25" href="$group__dmac__functions.html#ga0f07a2b35ff48d28f98e44ddad24a563" title="Set source address for the relevant channel of given XDMA." alt="" coords="336,621,539,653"/>
+<area shape="rect" id="node27" href="$group__dmac__functions.html#ga04ffedd5b4c75369b074b6413804458a" title="Set the relevant channel&#39;s source microblock stride of given XDMA." alt="" coords="292,677,583,709"/>
+</map>

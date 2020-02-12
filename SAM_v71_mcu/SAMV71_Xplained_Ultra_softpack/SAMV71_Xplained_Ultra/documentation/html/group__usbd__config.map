@@ -1,0 +1,15 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usbd__cdc__eem__config.html" title="USB CDC EEM Configure" alt="" coords="415,5,628,37"/>
+<area shape="rect" id="node2" href="$group__usbd__hid__keyboard__config.html" title="USB HID Keyboard Device Configure" alt="" coords="373,61,669,93"/>
+<area shape="rect" id="node3" href="$group__usbd__cdc__serial__config.html" title="USB CDC Serial Configure" alt="" coords="412,117,631,149"/>
+<area shape="rect" id="node4" href="$group__usbd__composite__config.html" title="USB Composite Device Configure" alt="" coords="387,173,656,205"/>
+<area shape="rect" id="node5" href="$group__usbd__hid__mouse__config.html" title="USB HID Mouse Device Configure" alt="" coords="385,229,657,261"/>
+<area shape="rect" id="node6" href="$group__usbd__audio__speakerphone__config.html" title="USB Speaker Phone Configure" alt="" coords="396,285,647,317"/>
+<area shape="rect" id="node8" href="$group__usbd__general__config.html" title="USBD General Configure" alt="" coords="419,341,624,373"/>
+<area shape="rect" id="node10" href="$group__usbd__msdd__config.html" title="USB MassStorage Configure" alt="" coords="405,397,637,429"/>
+<area shape="rect" id="node11" href="$group__usbd__audio__speaker__config.html" title="USB Speaker Configure" alt="" coords="423,453,620,485"/>
+<area shape="rect" id="node12" href="$group__usbd__ids.html" title="USBD Device IDs" alt="" coords="445,509,597,541"/>
+<area shape="rect" id="node13" href="$group__usbd__hid__xfr__config.html" title="USB HID Transfer Device Configure" alt="" coords="379,565,664,597"/>
+<area shape="rect" id="node14" href="$group__usbd__audio__config.html" title="USB Audio General Configure" alt="" coords="401,621,641,653"/>
+<area shape="rect" id="node9" href="$group__usb__device__stack.html" title="USB Stack Device" alt="" coords="7,313,161,345"/>
+</map>

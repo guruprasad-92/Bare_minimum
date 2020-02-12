@@ -1,0 +1,11 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usbd__audio__speakerphone.html" title="Usbd_audio_speakerphone" alt="" coords="945,56,1164,88"/>
+<area shape="rect" id="node2" href="$group__usb__descriptors.html" title="Common&#45;used USB Descriptors" alt="" coords="7,279,260,311"/>
+<area shape="rect" id="node3" href="$group__usbd__audio__id.html" title="USB Device Audio Speaker Codes" alt="" coords="917,112,1192,144"/>
+<area shape="rect" id="node4" href="$group__usbd__audio__ch.html" title="USB Device Audio Speaker Channel Numbers" alt="" coords="876,168,1233,200"/>
+<area shape="rect" id="node5" href="$group__usbd__composite__hidaud.html" title="Usbd_composite_hidaud" alt="" coords="955,244,1155,276"/>
+<area shape="rect" id="node7" href="$group__usbd__audio__speaker__if.html" title="USB Device Audio Speaker Interface IDs" alt="" coords="893,300,1216,332"/>
+<area shape="rect" id="node8" href="$group__usbd__audio__entity.html" title="USB Device Audio Speaker Entity IDs" alt="" coords="905,356,1204,388"/>
+<area shape="rect" id="node9" href="$group__usbd__audio__stream.html" title="USB Device Audio Speaker streams" alt="" coords="912,412,1197,444"/>
+<area shape="rect" id="node10" href="$group__usbd__composite__cdcaud.html" title="Usbd_composite_cdcaud" alt="" coords="952,480,1157,512"/>
+</map>

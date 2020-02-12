@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="199,5,324,37"/>
+<area shape="rect" id="node7" href="$dbg__console_8h.html#ae94f37e8259b6f44416c77bd0aac3c6b" title="Outputs a character on the UART line." alt="" coords="199,61,324,93"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="373,33,512,65"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$qspi__dma_8h.html#a3f74a9c30f8d87121341efbe86f7b992" title="Disables a QSPI Rx channel. This function will de&#45;allocate previous allocated dma Rx channel for QSPI..." alt="" coords="225,61,471,93"/>
+<area shape="rect" id="node13" href="$qspi__dma_8h.html#a3bb12a4d22e8c71f840710b19c769067" title="Disables a QSPI SPI Rx and Tx channels. This function will de&#45;allocate privious allocated dma Rx..." alt="" coords="239,117,457,149"/>
+<area shape="rect" id="node19" href="$qspi__dma_8h.html#a0d664a2d9fdc7a5b276553ef98ebb085" title="Enables a QSPI Rx channel. This function will allocate a dma Rx channel for QSPI." alt="" coords="227,173,469,205"/>
+<area shape="rect" id="node26" href="$qspi__dma_8h.html#aa4c44dd6ea57f7d345dc1cea9e764b33" title="Enables a QSPI SPI Rx channel. This function will allocate a dma Rx channel for QSPI SPI mode..." alt="" coords="240,229,456,261"/>
+<area shape="rect" id="node31" href="$qspi__dma_8h.html#a4dd4aa5fce406ddb2b215df6397142b8" title="Check if the QSPI driver is busy." alt="" coords="283,285,413,317"/>
+<area shape="rect" id="node33" href="$timetick_8h.html#a2b6066c4eacf5089da661bd9e13bc9ed" title="Sync Wait for several ms." alt="" coords="320,341,376,373"/>
+<area shape="rect" id="node5" href="$group__dmac__functions.html#ga4139b3ae17620cc1d27afe86a7b6d7fe" title="Set software flush request on the relevant channel." alt="" coords="521,5,743,37"/>
+<area shape="rect" id="node7" href="$group__dmad__functions.html#ga2a3178c1d2615b7a4d7a0005662cdd89" title="Free the specified xDMA channel." alt="" coords="540,61,724,93"/>
+<area shape="rect" id="node9" href="$group__dmad__functions.html#gaa0af49f87c84aaa20bee1f055d31ad2d" title="Set the callback function for xDMA channel transfer." alt="" coords="544,173,720,205"/>
+<area shape="rect" id="node11" href="$group__dmad__functions.html#ga6be5cec75618250adb227d7588ae7078" title="Stop DMA transfer." alt="" coords="540,117,724,149"/>
+<area shape="rect" id="node21" href="$group__dmad__functions.html#gaafb596e6912f388050a8ff98f54b8b8f" title="Allocate a XDMA channel for upper layer." alt="" coords="529,285,735,317"/>
+<area shape="rect" id="node23" href="$group__dmad__functions.html#ga2a7947467c04eb39abee2471d846ee35" title="Enable clock of the xDMA peripheral, Enable the dma peripheral, configure configuration register for ..." alt="" coords="528,229,736,261"/>
+<area shape="rect" id="node35" href="$timetick_8h.html#a125704795ef25b9a4887b18916658f2d" title="Get Delayed number of tick." alt="" coords="561,341,703,373"/>
+</map>

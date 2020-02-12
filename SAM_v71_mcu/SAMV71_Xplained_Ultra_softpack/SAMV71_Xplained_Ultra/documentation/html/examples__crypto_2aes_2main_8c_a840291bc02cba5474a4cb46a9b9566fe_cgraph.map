@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="113,5,239,37"/>
+<area shape="rect" id="node7" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="475,32,667,64"/>
+<area shape="rect" id="node10" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="115,112,237,144"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="288,5,427,37"/>
+</map>

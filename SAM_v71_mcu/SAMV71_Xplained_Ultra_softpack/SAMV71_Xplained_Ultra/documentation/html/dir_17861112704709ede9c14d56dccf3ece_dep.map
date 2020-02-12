@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="dir_41eb1ca6d0c9b91c42fdcfdbf8af2d62.html" title="hsmci_multimedia_card" alt="" coords="605,27,797,75"/>
+<area shape="rect" id="node8" href="dir_e8a20c5297c1e545ec98803c5eb5c417.html" title="libraries" alt="" coords="313,123,393,171"/>
+<area shape="rect" id="edge11" href="dir_000048_000077.html" title="2" alt="" coords="408,131,418,151"/>
+<area shape="rect" id="node4" href="dir_99f86fb7d49fa80b066e5471d987fb1b.html" title="hsmci_sdcard" alt="" coords="459,27,581,75"/>
+<area shape="rect" id="edge5" href="dir_000049_000077.html" title="3" alt="" coords="409,112,418,132"/>
+<area shape="rect" id="node5" href="dir_4454ed2d8e6d0f2e615e7c82a2286375.html" title="hsmci_sdcard_fatfs" alt="" coords="272,27,435,75"/>
+<area shape="rect" id="edge9" href="dir_000050_000077.html" title="4" alt="" coords="357,94,366,114"/>
+<area shape="rect" id="node6" href="dir_aac24f49174dd3e47e98486262e29bda.html" title="hsmci_sdio" alt="" coords="144,27,248,75"/>
+<area shape="rect" id="edge7" href="dir_000051_000077.html" title="2" alt="" coords="298,96,307,116"/>
+<area shape="rect" id="node7" href="dir_be82b0e0e8248e8096adb7ce075bb4ae.html" title="qspi_flash" alt="" coords="27,27,120,75"/>
+<area shape="rect" id="edge3" href="dir_000052_000077.html" title="1" alt="" coords="292,117,302,137"/>
+<area shape="rect" id="graph2" href="dir_17861112704709ede9c14d56dccf3ece.html" alt="" coords="16,16,984,85"/>
+</map>

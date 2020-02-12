@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group___u_s_b_h__group__interne.html#ga78a0073e6ae8ed58cc6a28ea89820ef1" title="Notify device connection or disconnection." alt="" coords="208,5,411,37"/>
+<area shape="rect" id="node5" href="$usbhs_8h.html#aab0688b661054b73b5c9fe45e59ea015" title="Gets USB host interrupt status." alt="" coords="208,61,411,93"/>
+<area shape="rect" id="node7" href="$usbhs_8h.html#ac783c1af3755deab237694ce7b4579bf" title="Sets USB host Enable the Generation of Start of Frame." alt="" coords="225,117,393,149"/>
+<area shape="rect" id="node9" href="$usbhs_8h.html#a40267eb93445cc78fe9b243d25622f9c" title="Gets USB host interrupt status." alt="" coords="216,173,403,205"/>
+<area shape="rect" id="node11" href="$usbhs_8h.html#aa9a5b060519f982e8cd29dc32754b5a9" title="Gets USB host interrupt status." alt="" coords="215,229,404,261"/>
+<area shape="rect" id="node13" href="$usbhs_8h.html#a7ac646519dfb6c319d8a60f08b5e4c29" title="Gets USB host interrupt status." alt="" coords="216,285,403,317"/>
+<area shape="rect" id="node15" href="$usbhs_8h.html#a6e707992fde3a408663eae6e34b00deb" title="Gets USB host interrupt status." alt="" coords="211,341,408,373"/>
+<area shape="rect" id="node17" href="$usbhs_8h.html#af53df9330077448ac0d721dbef847c9f" title="Check if clock is usable or not." alt="" coords="213,397,405,429"/>
+<area shape="rect" id="node19" href="$usbhs_8h.html#a3a003f0bc5f5ed08ba3253028bd04923" title="Enable or disable USB address." alt="" coords="207,453,412,485"/>
+<area shape="rect" id="node21" href="$usbhs_8h.html#a017b00c66ba92abe86f341381e3795ee" title="Enable or disable USB address." alt="" coords="208,509,411,541"/>
+<area shape="rect" id="node23" href="$usbhs_8h.html#abe1074ea76550225e959d5628d6b38a4" title="Sets USB host send Resume on USB bus." alt="" coords="237,565,381,597"/>
+<area shape="rect" id="node25" href="$usbhs_8h.html#ace6971cff0c4aeb589dd3caf663a2756" title="Raise interrupt for endpoint." alt="" coords="255,621,364,653"/>
+<area shape="rect" id="node27" href="$usbhs_8h.html#af5209f422709bb346dd8906a84594481" title="Sets USB host&#39;s speed to Normal , it sets to HS from FS." alt="" coords="199,677,420,709"/>
+<area shape="rect" id="node29" href="$usbhs_8h.html#aac479594b09aba35a095529855449a42" title="Sets USB host sends reste signal on USB Bus." alt="" coords="229,733,389,765"/>
+<area shape="rect" id="node31" href="$usbhs_8h.html#a78d27724945f587c54cba1d9617979c8" title="Freeze or unfreeze USB clock." alt="" coords="211,789,408,821"/>
+</map>

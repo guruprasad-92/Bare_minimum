@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="121,5,247,37"/>
+<area shape="rect" id="node7" href="$dbg__console_8h.html#a7585af50e201cf7f0d6bb1fba96b3915" title="Check if there is Input from UART line." alt="" coords="112,61,256,93"/>
+<area shape="rect" id="node10" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="123,117,245,149"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="304,33,443,65"/>
+</map>

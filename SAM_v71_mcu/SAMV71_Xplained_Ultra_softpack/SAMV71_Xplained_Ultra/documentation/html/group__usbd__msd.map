@@ -1,0 +1,22 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usbd__msd__subclass.html" title="MSD Subclass Codes" alt="" coords="484,5,665,37"/>
+<area shape="rect" id="node2" href="$group__usbd__sbc__secse__codes.html" title="SBC Sense Response Codes" alt="" coords="457,61,692,93"/>
+<area shape="rect" id="node3" href="$group__usb__descriptors.html" title="Common&#45;used USB Descriptors" alt="" coords="7,509,260,541"/>
+<area shape="rect" id="node4" href="$group__usbd__msd__cbw__def.html" title="MSD CBW Definitions" alt="" coords="483,117,667,149"/>
+<area shape="rect" id="node5" href="$group__usbd__sbc__periph__quali.html" title="SBC Periph. Qualifiers" alt="" coords="481,173,668,205"/>
+<area shape="rect" id="node6" href="$group__usbd__msd__endian__macros.html" title="MSD Endian Macros" alt="" coords="488,229,661,261"/>
+<area shape="rect" id="node7" href="$group__usbd__msd__driver__result__codes.html" title="MSD Driver Result Codes" alt="" coords="471,285,679,317"/>
+<area shape="rect" id="node8" href="$group__usbd__msd__protocol__codes.html" title="MSD Protocol Codes" alt="" coords="488,341,661,373"/>
+<area shape="rect" id="node9" href="$group__usbd__sbc__periph__types.html" title="SBC Periph. Types" alt="" coords="493,397,656,429"/>
+<area shape="rect" id="node10" href="$group__usbd__sbc__sense__additionals.html" title="SBC Sense Additional" alt="" coords="484,453,665,485"/>
+<area shape="rect" id="node11" href="$group__usbd__msd__device__descriptor__ids.html" title="MSD Device Descriptor IDs" alt="" coords="463,509,687,541"/>
+<area shape="rect" id="node12" href="$group__usbd__sbc__command__state.html" title="SBC Command States" alt="" coords="483,565,667,597"/>
+<area shape="rect" id="node14" href="$group__usbd__general__config.html" title="USBD General Configure" alt="" coords="472,621,677,653"/>
+<area shape="rect" id="node15" href="$group__usbd__msd__driver__xfr__directions.html" title="MSD Driver Xfr Directions" alt="" coords="468,677,681,709"/>
+<area shape="rect" id="node16" href="$group__usbd__msd__driver__possible__states.html" title="MSD Driver Possible states" alt="" coords="465,733,684,765"/>
+<area shape="rect" id="node17" href="$group__usbd__msd__driver__action__cases.html" title="MSD Driver Action Cases" alt="" coords="471,789,679,821"/>
+<area shape="rect" id="node18" href="$group__usbd__sbc__operation__codes.html" title="SBC Operation Codes" alt="" coords="483,845,667,877"/>
+<area shape="rect" id="node19" href="$group__usbd__msdd__config.html" title="USB MassStorage Configure" alt="" coords="459,901,691,933"/>
+<area shape="rect" id="node20" href="$group__usbd__msd__csw__def.html" title="MSD CSW Definitions" alt="" coords="483,957,667,989"/>
+<area shape="rect" id="node21" href="$group__usbd__sbc__sense__keys.html" title="SBC Sense Keys" alt="" coords="500,1013,649,1045"/>
+</map>

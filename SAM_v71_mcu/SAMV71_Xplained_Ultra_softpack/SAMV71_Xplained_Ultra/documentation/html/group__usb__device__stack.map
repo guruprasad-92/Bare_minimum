@@ -1,0 +1,15 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usb__msd.html" title="Usb_msd" alt="" coords="267,5,355,37"/>
+<area shape="rect" id="node2" href="$group__usbd__hid.html" title="Usbd_hid" alt="" coords="265,61,356,93"/>
+<area shape="rect" id="node3" href="$group__usb__video__class.html" title="Usb_video_class" alt="" coords="240,117,381,149"/>
+<area shape="rect" id="node4" href="$group__usbd__hal.html" title="Usbd_hal" alt="" coords="267,173,355,205"/>
+<area shape="rect" id="node5" href="$group__usb__cdc.html" title="Usb_cdc" alt="" coords="268,229,353,261"/>
+<area shape="rect" id="node6" href="$group__usb__general.html" title="Usb_general" alt="" coords="255,285,367,317"/>
+<area shape="rect" id="node7" href="$group__usbd__composite__hidaud.html" title="Usbd_composite_hidaud" alt="" coords="211,341,411,373"/>
+<area shape="rect" id="node8" href="$group__usb__hid.html" title="Usb_hid" alt="" coords="271,397,351,429"/>
+<area shape="rect" id="node9" href="$group__usbd__config.html" title="Usbd_config" alt="" coords="255,453,367,485"/>
+<area shape="rect" id="node10" href="$group__usbd__interface.html" title="Usbd_interface" alt="" coords="245,509,376,541"/>
+<area shape="rect" id="node11" href="$group__usb__audio.html" title="Usb_audio" alt="" coords="261,565,360,597"/>
+<area shape="rect" id="node13" href="$group__usbd__ccid.html" title="Usbd_ccid" alt="" coords="261,621,360,653"/>
+<area shape="rect" id="node14" href="$group__usbd__aud__fun.html" title="Usbd_aud_fun" alt="" coords="248,677,373,709"/>
+</map>

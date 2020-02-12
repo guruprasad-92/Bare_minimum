@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="163,61,288,93"/>
+<area shape="rect" id="node7" href="$uart__dma_8h.html#a2e608c15e9d2dff4ca4e98f8ee417ed4" title="This function disables the appropriate DMA channel for Rx channel of USART." alt="" coords="113,173,337,205"/>
+<area shape="rect" id="node17" href="$uart__dma_8h.html#a9b0fc44709de4abbf35be9aac35d689f" title="This function disables the appropriate DMA channel for Tx channel of USART." alt="" coords="115,229,336,261"/>
+<area shape="rect" id="node24" href="$uart__dma_8h.html#a67f71ddf9448a9404427f880e3063664" title="This function initialize the appropriate DMA channel for Rx channel of UART." alt="" coords="115,285,336,317"/>
+<area shape="rect" id="node32" href="$uart__dma_8h.html#a88e980ec7908f8ac5ca57b1d0028a987" title="This function initialize the appropriate DMA channel for Tx channel of UART." alt="" coords="116,341,335,373"/>
+<area shape="rect" id="node38" href="$uart__dma_8h.html#abeb5a45998b68ae0ff48b68847c80e7c" title="Starts a UART master transfer. This is a non blocking function. It will return as soon as the transfe..." alt="" coords="152,397,299,429"/>
+<area shape="rect" id="node42" href="$uart__dma_8h.html#a649abc6e6061e5cbe6450fbba03aa025" title="Starts a UART master transfer. This is a non blocking function. It will return as soon as the transfe..." alt="" coords="147,453,304,485"/>
+<area shape="rect" id="node45" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="164,509,287,541"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="436,5,575,37"/>
+<area shape="rect" id="node9" href="$uart_8c.html#ab9b2807951dac51cbe4faeb7fd762222" title="Enables or disables the receiver of an UART peripheral." alt="" coords="396,173,615,205"/>
+<area shape="rect" id="node11" href="$group__dmad__functions.html#ga2a3178c1d2615b7a4d7a0005662cdd89" title="Free the specified xDMA channel." alt="" coords="413,117,597,149"/>
+<area shape="rect" id="node13" href="$group__dmad__functions.html#gaa0af49f87c84aaa20bee1f055d31ad2d" title="Set the callback function for xDMA channel transfer." alt="" coords="417,229,593,261"/>
+<area shape="rect" id="node15" href="$group__dmad__functions.html#ga6be5cec75618250adb227d7588ae7078" title="Stop DMA transfer." alt="" coords="413,61,597,93"/>
+<area shape="rect" id="node19" href="$uart_8c.html#a77a2772d898640ae4426f747ed18b3ad" title="Enables or disables the transmitter of an UART peripheral." alt="" coords="387,285,624,317"/>
+<area shape="rect" id="node27" href="$group__dmad__functions.html#gaafb596e6912f388050a8ff98f54b8b8f" title="Allocate a XDMA channel for upper layer." alt="" coords="403,397,608,429"/>
+<area shape="rect" id="node29" href="$group__dmad__functions.html#ga2a7947467c04eb39abee2471d846ee35" title="Enable clock of the xDMA peripheral, Enable the dma peripheral, configure configuration register for ..." alt="" coords="401,341,609,373"/>
+<area shape="rect" id="node40" href="$group__dmad__functions.html#ga20bc2d5f85c7145a43d7ccd13b067e50" title="Start xDMA transfer." alt="" coords="413,453,597,485"/>
+</map>

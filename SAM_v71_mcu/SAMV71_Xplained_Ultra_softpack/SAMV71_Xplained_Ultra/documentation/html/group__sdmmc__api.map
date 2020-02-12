@@ -1,0 +1,8 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__sdmmc__cmd.html" title="SD/MMC Lib Commands Definitions" alt="" coords="388,5,671,37"/>
+<area shape="rect" id="node2" href="$group__sdmmc__spec__defines.html" title="SD/MMC Spec. definitions" alt="" coords="423,61,636,93"/>
+<area shape="rect" id="node4" href="$group__sdio__api.html" title="SDIO APIs" alt="" coords="479,117,580,149"/>
+<area shape="rect" id="node5" href="$group__sdmmc__status__bm.html" title="SD/MMC Status register constants" alt="" coords="393,173,665,205"/>
+<area shape="rect" id="node6" href="$group__sdio__status__bm.html" title="SDIO Status definitions" alt="" coords="435,229,624,261"/>
+<area shape="rect" id="node7" href="$group__libsdmmc__module.html" title="Libsdmmc_module" alt="" coords="5,117,163,149"/>
+</map>

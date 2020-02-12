@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$examples_2usart__hw__handshaking_2main_8c.html#ac18222aa001680a944d320c723b230da" title="USART hardware handshaking configuration." alt="" coords="157,61,299,93"/>
+<area shape="rect" id="node11" href="$examples_2usart__hw__handshaking_2main_8c.html#ae0dfcf406460d98df93e206b670335b5" title="Initialize circular buffer." alt="" coords="151,117,305,149"/>
+<area shape="rect" id="node13" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="165,224,291,256"/>
+<area shape="rect" id="node17" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="716,197,847,229"/>
+<area shape="rect" id="node19" href="$dbg__console_8h.html#a7585af50e201cf7f0d6bb1fba96b3915" title="Check if there is Input from UART line." alt="" coords="156,280,300,312"/>
+<area shape="rect" id="node22" href="$examples_2usart__hw__handshaking_2main_8c.html#aa15207383015b8ad50de1c2976d02eb8" title="Send the rest of the data in buffer if it is less than 100KB." alt="" coords="167,387,289,419"/>
+<area shape="rect" id="node24" href="$usart__dma_8h.html#a898156572b03a6af7edcb27940d79148" title="Starts a USART master transfer. This is a non blocking function. It will return as soon as the transf..." alt="" coords="432,384,600,416"/>
+<area shape="rect" id="node28" href="$timetick_8h.html#a125704795ef25b9a4887b18916658f2d" title="Get Delayed number of tick." alt="" coords="157,493,299,525"/>
+<area shape="rect" id="node30" href="$timetick_8h.html#ae626fb68b4503701534936d10ec97067" title="Get Delayed number of tick." alt="" coords="185,549,271,581"/>
+<area shape="rect" id="node33" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="144,605,312,637"/>
+<area shape="rect" id="node35" href="$usart__dma_8h.html#a7714e0765368904f8f43f1fc0ccb63fd" title="This function initialize the appropriate DMA channel for Rx channel of USART." alt="" coords="112,661,344,693"/>
+<area shape="rect" id="node45" href="$usart__dma_8h.html#add65a720aa37b5f7d95df156b3fb06e7" title="This function initialize the appropriate DMA channel for Tx channel of USART." alt="" coords="113,717,343,749"/>
+<area shape="rect" id="node52" href="$usart__dma_8h.html#a3cc9923a38b9031b81e01637630712dd" title="Starts a USART master transfer. This is a non blocking function. It will return as soon as the transf..." alt="" coords="437,440,595,472"/>
+<area shape="rect" id="node56" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="167,773,289,805"/>
+<area shape="rect" id="node5" href="$usart_8h.html#aa7360fa2d1dbee570c3adefe6efaf873" title="Enable interrupt." alt="" coords="445,5,587,37"/>
+<area shape="rect" id="node7" href="$usart_8h.html#ae70c9ce0e4cf3d14158f0faf36a357a2" title="Enable Rx Timeout for USART." alt="" coords="401,61,631,93"/>
+<area shape="rect" id="node9" href="$usart__dma_8h.html#a3327e28c21222fe643b4533c203976f0" title="Initializes the USARTDma structure and the corresponding USART &amp; DMA . hardware select value..." alt="" coords="432,117,600,149"/>
+<area shape="rect" id="node15" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="447,224,585,256"/>
+<area shape="rect" id="node26" href="$group__dmad__functions.html#ga20bc2d5f85c7145a43d7ccd13b067e50" title="Start xDMA transfer." alt="" coords="689,412,873,444"/>
+<area shape="rect" id="node37" href="$usart_8h.html#a246df8753ea10e0ac19913c1dac062fb" title="Enables or disables the receiver of an USART peripheral." alt="" coords="401,577,631,609"/>
+<area shape="rect" id="node39" href="$group__dmad__functions.html#gaafb596e6912f388050a8ff98f54b8b8f" title="Allocate a XDMA channel for upper layer." alt="" coords="413,633,619,665"/>
+<area shape="rect" id="node41" href="$group__dmad__functions.html#ga2a7947467c04eb39abee2471d846ee35" title="Enable clock of the xDMA peripheral, Enable the dma peripheral, configure configuration register for ..." alt="" coords="412,689,620,721"/>
+<area shape="rect" id="node43" href="$group__dmad__functions.html#gaa0af49f87c84aaa20bee1f055d31ad2d" title="Set the callback function for xDMA channel transfer." alt="" coords="428,745,604,777"/>
+<area shape="rect" id="node47" href="$usart_8h.html#a18a00bc79be656904ce8c7043f4c6d19" title="Enables or disables the transmitter of an USART peripheral." alt="" coords="392,801,640,833"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="180,5,305,37"/>
+<area shape="rect" id="node7" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="676,171,807,203"/>
+<area shape="rect" id="node12" href="$dbg__console_8h.html#a7585af50e201cf7f0d6bb1fba96b3915" title="Check if there is Input from UART line." alt="" coords="171,61,315,93"/>
+<area shape="rect" id="node15" href="$dbg__console_8h.html#ae94f37e8259b6f44416c77bd0aac3c6b" title="Outputs a character on the UART line." alt="" coords="180,117,305,149"/>
+<area shape="rect" id="node18" href="$group__usbd__hid__key.html#ga3c4a5834758595c2295efd954ad1bb87" title="HIDDKeyboard_RemoteWakeUp" alt="" coords="113,224,372,256"/>
+<area shape="rect" id="node20" href="$group__usbd__hid__key.html#ga1f58303d60b968bd70c374dfa106df45" title="HIDDKeyboardDriver_Initialize" alt="" coords="120,280,365,312"/>
+<area shape="rect" id="node22" href="$led_8h.html#a771437772006fafea906ca1613bb5593" title="LED_Configure" alt="" coords="444,279,577,311"/>
+<area shape="rect" id="node26" href="$pio_8h.html#a1de94d9c6a29f9fa44e498e97edde1cc" title="Returns 1 if one or more PIO of the given Pin instance currently have a high level; otherwise returns..." alt="" coords="201,387,284,419"/>
+<area shape="rect" id="node28" href="$pio__it_8h.html#ad31e05d6debb1e88af6124cd7751af22" title="Initializes the PIO interrupt management logic." alt="" coords="648,345,835,377"/>
+<area shape="rect" id="node32" href="$group__usbd__interface.html#ga71b9264662d74666e4b058984e3346e5" title="USBD_Connect" alt="" coords="175,493,311,525"/>
+<area shape="rect" id="node36" href="$group__usbd__interface.html#ga804bf63efb2d4420a3bf42984e807e72" title="USBD_GetState" alt="" coords="173,549,312,581"/>
+<area shape="rect" id="node38" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="181,605,304,637"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="441,117,580,149"/>
+<area shape="rect" id="node9" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="883,171,1075,203"/>
+<area shape="rect" id="node34" href="$group__usbd__hal.html#ga214508a8f0f824cdcf40bca9ddac10f6" title="Enable Pull&#45;up, connect." alt="" coords="423,493,599,525"/>
+</map>

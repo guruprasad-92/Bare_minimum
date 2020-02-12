@@ -1,0 +1,23 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usb__hid__request__codes.html" title="HID Request Codes" alt="" coords="385,5,551,37"/>
+<area shape="rect" id="node2" href="$group__usb__hid__usage__pages.html" title="HID Usage Pages&#39; IDs" alt="" coords="376,61,560,93"/>
+<area shape="rect" id="node3" href="$group__usb__hid__leds__usage.html" title="HID LEDs Usages" alt="" coords="391,117,545,149"/>
+<area shape="rect" id="node4" href="$group__usb__hid__protocol__types.html" title="HID Protocol Types" alt="" coords="387,173,549,205"/>
+<area shape="rect" id="node5" href="$group__usb__hid__interface__descriptor__codes.html" title="HID Interface Descriptor Codes" alt="" coords="341,229,595,261"/>
+<area shape="rect" id="node6" href="$group__usb__hid__numeric__keys.html" title="HID Numeric Keys" alt="" coords="389,285,547,317"/>
+<area shape="rect" id="node7" href="$group__usb__hid__buttons__page__id.html" title="HID BUTTONs Page ID" alt="" coords="373,341,563,373"/>
+<area shape="rect" id="node8" href="$group__usb__hid__leds__page__id.html" title="HID LEDs Page ID" alt="" coords="388,397,548,429"/>
+<area shape="rect" id="node9" href="$group__usb__hid__modified__keys.html" title="HID Modified Keys" alt="" coords="389,453,547,485"/>
+<area shape="rect" id="node10" href="$group__usb__hid__error__codes.html" title="HID Error Codes" alt="" coords="396,509,540,541"/>
+<area shape="rect" id="node11" href="$group__usb__hid__keypad__page__id.html" title="HID Keypad Page ID" alt="" coords="380,565,556,597"/>
+<area shape="rect" id="node12" href="$group__usb__hid__report.html" title="USB HID Report" alt="" coords="397,621,539,653"/>
+<area shape="rect" id="node14" href="$group__usb__hid__device__descriptor__codes.html" title="HID Device Descriptor Codes" alt="" coords="349,677,587,709"/>
+<area shape="rect" id="node15" href="$group__usb__descriptors__types.html" title="HID Descriptors Types" alt="" coords="375,733,561,765"/>
+<area shape="rect" id="node16" href="$group__usb__hid__ver.html" title="HID Release Numbers" alt="" coords="377,789,559,821"/>
+<area shape="rect" id="node17" href="$group__usb__hid__special__keys.html" title="HID Special Keys" alt="" coords="393,845,543,877"/>
+<area shape="rect" id="node19" href="$group__usb__hid__alphabetic__keys.html" title="HID Alphabetic Keys" alt="" coords="381,901,555,933"/>
+<area shape="rect" id="node20" href="$group__usb__hid__report__types.html" title="HID Report Types" alt="" coords="392,957,544,989"/>
+<area shape="rect" id="node21" href="$group__usb__hid__genericdesktop__usages.html" title="HID GenericDesktop Usages" alt="" coords="353,1013,583,1045"/>
+<area shape="rect" id="node22" href="$group__usb__hid__genericdesktop__page__id.html" title="HID GenericDesktop Page ID" alt="" coords="349,1069,587,1101"/>
+<area shape="rect" id="node18" href="$group__usb__device__stack.html" title="USB Stack Device" alt="" coords="7,537,161,569"/>
+</map>

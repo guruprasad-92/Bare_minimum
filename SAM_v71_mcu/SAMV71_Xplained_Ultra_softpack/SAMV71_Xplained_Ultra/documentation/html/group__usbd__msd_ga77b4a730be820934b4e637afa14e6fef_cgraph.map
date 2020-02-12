@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__msd.html#ga462b4263f13e5235a2bedceeaece01cb" title="MSDFunction_Initialize" alt="" coords="224,5,413,37"/>
+<area shape="rect" id="node5" href="$group__usbd__interface.html#ga01ba3ff549b968edc152cdb23c2027d1" title="USBD_GetDriver" alt="" coords="247,61,391,93"/>
+<area shape="rect" id="node7" href="$group__usbd__interface.html#ga1fd3982402055e37aa879c199e0b7fee" title="USBD_Init" alt="" coords="269,117,368,149"/>
+<area shape="rect" id="node13" href="$group__usbd__interface.html#ga127547288f97f428de35e4d816d3c52d" title="USBDDriver_Initialize" alt="" coords="229,173,408,205"/>
+<area shape="rect" id="node9" href="$group__usbd__hal.html#ga3699059b9b9b52b7e55af6d070a7fe61" title="USBD_HAL_Init" alt="" coords="500,89,639,121"/>
+<area shape="rect" id="node11" href="$group__usbd__interface.html#ga5579e02a71a8f510005e873fc50a0f4a" title="USBDCallbacks_Initialized" alt="" coords="463,145,676,177"/>
+</map>

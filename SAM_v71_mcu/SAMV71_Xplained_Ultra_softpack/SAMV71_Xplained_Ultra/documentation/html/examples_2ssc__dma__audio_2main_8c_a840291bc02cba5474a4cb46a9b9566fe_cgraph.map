@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="156,5,287,37"/>
+<area shape="rect" id="node5" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="379,59,571,91"/>
+<area shape="rect" id="node7" href="$pmc_8c.html#a71685a1121066ca59e05d677c3bff413" title="Configure PLLA as clock input for MCK." alt="" coords="131,112,312,144"/>
+<area shape="rect" id="node10" href="$ssc_8h.html#a936155ced242aad2850d1e341c80b9c1" title="Configures a SSC peripheral.If the divided clock is not used, the master clock frequency can be set t..." alt="" coords="153,168,289,200"/>
+<area shape="rect" id="node13" href="$ssc_8h.html#a94fb2a583936efd2d881a2fbd8196dea" title="Configures the receiver of a SSC peripheral." alt="" coords="121,224,321,256"/>
+<area shape="rect" id="node15" href="$ssc_8h.html#a57442f32d1ef6e59f8d337919bcc414a" title="Configures the transmitter of a SSC peripheral." alt="" coords="112,280,331,312"/>
+<area shape="rect" id="node17" href="$ssc_8h.html#af450f09455a60e039542bcc974d5e74f" title="Disables the receiver of a SSC peripheral." alt="" coords="131,336,312,368"/>
+<area shape="rect" id="node19" href="$ssc_8h.html#aff6d41354eef0fb13cc9ec84e28b5783" title="Disables the transmitter of a SSC peripheral." alt="" coords="121,392,321,424"/>
+<area shape="rect" id="node21" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="137,448,305,480"/>
+<area shape="rect" id="node23" href="$twi_8h.html#ac90d2f32c99191c21f02626a9584b6bb" title="Configures a TWI peripheral to operate in master mode, at the given frequency (in Hz)..." alt="" coords="131,504,312,536"/>
+<area shape="rect" id="node25" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="160,560,283,592"/>
+<area shape="rect" id="node27" href="$wm8904_8h.html#ad6e77da6ab43aae0962183aa6bcd4700" title="Read data from WM8904 Register." alt="" coords="155,616,288,648"/>
+<area shape="rect" id="node29" href="$wm8904_8h.html#a5307d44ff69048347e00b469b9ac6a92" title="Write data to WM8904 Register." alt="" coords="153,672,289,704"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="153,5,279,37"/>
+<area shape="rect" id="node7" href="$efc_8h.html#aa278e5f18f5400d4206935cc8742bf0b" title="Set read/write wait state on the EEFC peripheral." alt="" coords="137,61,295,93"/>
+<area shape="rect" id="node9" href="$flashd_8h.html#abcd1cf006641b2c0ffe0ef95615f6b32" title="Initializes the flash driver." alt="" coords="139,117,293,149"/>
+<area shape="rect" id="node13" href="$flashd_8h.html#a0d24162d0c329727f162bfadd82d3577" title="Locks all the regions in the given address range. The actual lock range is reported through two outpu..." alt="" coords="151,285,281,317"/>
+<area shape="rect" id="node19" href="$flashd_8h.html#afd3662ad92b776be125acdd3c053875d" title="Sets the selected GPNVM bit." alt="" coords="128,173,304,205"/>
+<area shape="rect" id="node25" href="$flashd_8h.html#a246dfaa78f0b0263d03e00269708e564" title="Unlocks all the regions in the given address range. The actual unlock range is reported through two o..." alt="" coords="144,229,288,261"/>
+<area shape="rect" id="node29" href="$flashd_8h.html#a2bfa853dcc6963b6c053ab4e9417a12c" title="Writes a data buffer in the internal flash." alt="" coords="149,341,283,373"/>
+<area shape="rect" id="node35" href="$mpu_8c.html#a5bdbf8327da8abb7c67a214586df72f4" title="Calculate region size for the RASR." alt="" coords="112,397,320,429"/>
+<area shape="rect" id="node37" href="$mpu_8c.html#aaa88b8f32a6a4c83d2ddc9a287d82ef2" title="Update MPU regions." alt="" coords="128,491,304,523"/>
+<area shape="rect" id="node45" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="155,547,277,579"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="395,5,533,37"/>
+<area shape="rect" id="node11" href="$efc_8h.html#a47e9d8bbb518d8c528cf7317b9080aa3" title="Disables the flash ready interrupt source on the EEFC peripheral." alt="" coords="384,64,544,96"/>
+<area shape="rect" id="node15" href="$efc_8h.html#aa9b30cd8bbb9ff48c04922ad5b36adfb" title="Performs the given command and wait until its completion (or an error)." alt="" coords="608,224,805,256"/>
+<area shape="rect" id="node17" href="$efc_8h.html#a170fa534d132c75b2851f0a42f7b71b0" title="Translates the given address page and offset values." alt="" coords="369,277,559,309"/>
+<area shape="rect" id="node22" href="$flashd_8h.html#a46c2aea775411f461647edd941286cf9" title="Check if the given GPNVM bit is set or not." alt="" coords="369,171,559,203"/>
+<area shape="rect" id="node31" href="$efc_8h.html#a50ce7469847193013d20ad0a928bd953" title="Computes the address of a flash access given the page and offset." alt="" coords="369,384,559,416"/>
+<area shape="rect" id="node39" href="$mpu_8c.html#adce5d5bd104ef885cfc8692921b6fdc2" title="Disable the current active region." alt="" coords="379,491,549,523"/>
+<area shape="rect" id="node41" href="$mpu_8c.html#a5b599da2790baa9affb17efe20e758a1" title="Setup a memory region." alt="" coords="393,547,535,579"/>
+<area shape="rect" id="node43" href="$mpu_8c.html#a7962790150d8399f91306ea1551d8783" title="Set active memory region." alt="" coords="377,603,551,635"/>
+</map>

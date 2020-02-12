@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__audio__speaker.html#gafa5432b98a55735fdd034c32343743d9" title="AUDDSpeakerDriver_Initialize" alt="" coords="113,5,353,37"/>
+<area shape="rect" id="node5" href="$group__usbd__audio__speaker.html#ga202e427613710c7dc3cb2cfe3603f624" title="AUDDSpeakerDriver_Read" alt="" coords="124,61,343,93"/>
+<area shape="rect" id="node7" href="$led_8h.html#a771437772006fafea906ca1613bb5593" title="LED_Configure" alt="" coords="167,117,300,149"/>
+<area shape="rect" id="node11" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="149,173,317,205"/>
+<area shape="rect" id="node13" href="$group__usbd__interface.html#ga71b9264662d74666e4b058984e3346e5" title="USBD_Connect" alt="" coords="165,229,301,261"/>
+<area shape="rect" id="node17" href="$group__usbd__interface.html#ga804bf63efb2d4420a3bf42984e807e72" title="USBD_GetState" alt="" coords="164,285,303,317"/>
+<area shape="rect" id="node19" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="172,341,295,373"/>
+<area shape="rect" id="node9" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="427,117,557,149"/>
+<area shape="rect" id="node15" href="$group__usbd__hal.html#ga214508a8f0f824cdcf40bca9ddac10f6" title="Enable Pull&#45;up, connect." alt="" coords="404,229,580,261"/>
+</map>

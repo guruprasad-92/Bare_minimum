@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$usart_8h.html#aa7360fa2d1dbee570c3adefe6efaf873" title="Enable interrupt." alt="" coords="240,5,381,37"/>
+<area shape="rect" id="node5" href="$usart_8h.html#ae70c9ce0e4cf3d14158f0faf36a357a2" title="Enable Rx Timeout for USART." alt="" coords="196,61,425,93"/>
+<area shape="rect" id="node7" href="$usart__dma_8h.html#a3327e28c21222fe643b4533c203976f0" title="Initializes the USARTDma structure and the corresponding USART &amp; DMA . hardware select value..." alt="" coords="227,117,395,149"/>
+<area shape="rect" id="node9" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="475,61,667,93"/>
+<area shape="rect" id="node11" href="$usart_8h.html#a6280c3578315c2a06e1857b7dca0c1be" title="Configures an USART peripheral with the specified parameters." alt="" coords="493,117,648,149"/>
+<area shape="rect" id="node13" href="$group__dmad__functions.html#ga8c7517080f70e93096364e916af6e6f2" title="Initialize xDMA driver instance." alt="" coords="496,173,645,205"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$timetick_8h.html#a125704795ef25b9a4887b18916658f2d" title="Get Delayed number of tick." alt="" coords="135,5,276,37"/>
+<area shape="rect" id="node5" href="$timetick_8h.html#ae626fb68b4503701534936d10ec97067" title="Get Delayed number of tick." alt="" coords="163,61,248,93"/>
+<area shape="rect" id="node7" href="$led_8h.html#a7fd513ea5e027a30e20ef05242422f2a" title="LED_Toggle" alt="" coords="151,117,260,149"/>
+<area shape="rect" id="node15" href="$pio__it_8h.html#ad31e05d6debb1e88af6124cd7751af22" title="Initializes the PIO interrupt management logic." alt="" coords="112,197,299,229"/>
+<area shape="rect" id="node20" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="121,253,289,285"/>
+<area shape="rect" id="node22" href="$wdt_8h.html#ac9145d17b1cbe9ca58154d330b22d9bf" title="Enable watchdog with given mode." alt="" coords="147,309,264,341"/>
+<area shape="rect" id="node24" href="$wdt_8h.html#a9f88abb052fa0347254c5743b117b9c0" title="Watchdog get period." alt="" coords="135,365,276,397"/>
+<area shape="rect" id="node26" href="$wdt_8h.html#a3cd0aea566c94375faa90bc33f530011" title="Watchdog restart." alt="" coords="145,421,265,453"/>
+<area shape="rect" id="node9" href="$pio_8h.html#a2d4d88110e7ab4fc0732df6d35289e06" title="Sets a low output level on all the PIOs defined in the given Pin instance. This has no immediate effe..." alt="" coords="403,45,501,77"/>
+<area shape="rect" id="node11" href="$pio_8h.html#a6226a6942c31e5f561c5e2b4d811f824" title="Returns 1 if one or more PIO of the given Pin are configured to output a high level (even if they are..." alt="" coords="347,101,557,133"/>
+<area shape="rect" id="node13" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="411,157,493,189"/>
+<area shape="rect" id="node18" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="356,213,548,245"/>
+</map>

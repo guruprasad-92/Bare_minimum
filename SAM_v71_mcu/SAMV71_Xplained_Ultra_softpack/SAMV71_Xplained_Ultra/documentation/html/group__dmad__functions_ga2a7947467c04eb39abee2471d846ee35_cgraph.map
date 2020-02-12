@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="289,5,481,37"/>
+<area shape="rect" id="node5" href="$pmc_8c.html#a13d9ea02189cb126f06a7d9c7241314a" title="Get Periph Status for the given peripheral ID." alt="" coords="292,61,479,93"/>
+<area shape="rect" id="node7" href="$group__dmac__functions.html#ga0e8c1a293606c436f4ec8197faeae9c4" title="Disables the relevant channel of given XDMAC." alt="" coords="284,117,487,149"/>
+<area shape="rect" id="node9" href="$group__dmac__functions.html#ga78c4725b239a4bff988309fe0bf8034a" title="Enable interrupt with mask on the relevant channel of given XDMA." alt="" coords="279,173,492,205"/>
+<area shape="rect" id="node11" href="$group__dmac__functions.html#ga9538d464942bd9a66aa3a0c1a5146190" title="Disables XDMAC global interrupt." alt="" coords="303,229,468,261"/>
+<area shape="rect" id="node13" href="$group__dmac__functions.html#ga1f9c0fc1111b5f8917921091d69a0cad" title="Get interrupt status for the relevant channel of given XDMA." alt="" coords="288,285,483,317"/>
+<area shape="rect" id="node15" href="$group__dmac__functions.html#ga86b68edc3cf54526056c6dcccb646ec9" title="Set block length for the relevant channel of given XDMA." alt="" coords="283,341,488,373"/>
+<area shape="rect" id="node17" href="$group__dmac__functions.html#gae2acce4d8101a30f3090d6d0d636a919" title="Set configuration for the relevant channel of given XDMA." alt="" coords="275,397,496,429"/>
+<area shape="rect" id="node19" href="$group__dmac__functions.html#ga9aa1514d167d3e84e0baf8e3bfc1e7ba" title="Set next descriptor&#39;s address &amp; interface for the relevant channel of given XDMA..." alt="" coords="273,453,497,485"/>
+<area shape="rect" id="node21" href="$group__dmac__functions.html#ga6774da09c6d1694354385b930009c057" title="Set next descriptor&#39;s configuration for the relevant channel of given XDMA." alt="" coords="264,509,507,541"/>
+<area shape="rect" id="node23" href="$group__dmac__functions.html#gaca7a04b72e48d4b3a4144e27dc36d536" title="Set destination address for the relevant channel of given XDMA." alt="" coords="271,565,500,597"/>
+<area shape="rect" id="node25" href="$group__dmac__functions.html#ga0f07a2b35ff48d28f98e44ddad24a563" title="Set source address for the relevant channel of given XDMA." alt="" coords="284,621,487,653"/>
+</map>

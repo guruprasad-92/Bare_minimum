@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$board__memories_8h.html#a0e0e3f4ee2328faeb9f45c5fc591f8de" title="Configures the EBI for SDRAM (IS42S16100E&#45;7B) access." alt="" coords="112,32,320,64"/>
+<area shape="rect" id="node10" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="155,88,277,120"/>
+<area shape="rect" id="node5" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="368,5,499,37"/>
+<area shape="rect" id="node7" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="547,32,739,64"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$efc_8h.html#aa9b30cd8bbb9ff48c04922ad5b36adfb" title="Performs the given command and wait until its completion (or an error)." alt="" coords="485,5,683,37"/>
+<area shape="rect" id="node5" href="$flashd_8h.html#a46c2aea775411f461647edd941286cf9" title="Check if the given GPNVM bit is set or not." alt="" coords="247,59,436,91"/>
+<area shape="rect" id="node7" href="$efc_8h.html#a5a13faa6909d8d0500679fdaa8245a40" title="Returns the result of the last executed command." alt="" coords="517,61,651,93"/>
+</map>

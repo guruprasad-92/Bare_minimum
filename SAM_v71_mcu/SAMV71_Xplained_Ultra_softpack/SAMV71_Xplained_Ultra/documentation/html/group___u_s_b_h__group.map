@@ -1,0 +1,7 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node2" href="$group___u_s_b_h__group__interne.html" title="Implementation of UHC" alt="" coords="529,5,719,37"/>
+<area shape="rect" id="node4" href="$group___u_s_b_h__basic__use__case__setup__code.html" title="USB Host Controller (UHC) &#45; Example code" alt="" coords="456,61,792,93"/>
+<area shape="rect" id="node5" href="$group___u_s_b_h__basic__use__case__setup__prereq.html" title="USB Host Controller (UHC) &#45; Prerequisites" alt="" coords="459,117,789,149"/>
+<area shape="rect" id="node6" href="$group___u_s_b_h__basic__use__case__setup__flow.html" title="USB Device Controller (UHC) &#45; Workflow" alt="" coords="464,173,784,205"/>
+<area shape="rect" id="node3" href="$group__usb__host__group.html" title="USB Stack Host" alt="" coords="5,89,144,121"/>
+</map>

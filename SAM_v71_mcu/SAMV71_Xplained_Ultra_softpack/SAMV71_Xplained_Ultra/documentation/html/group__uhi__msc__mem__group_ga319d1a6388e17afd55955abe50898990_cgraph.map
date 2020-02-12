@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__uhi__msc__group.html#gae6006f5e44ec6833a9da65d1ede96bfc" title="Gives information about a LUN." alt="" coords="291,5,477,37"/>
+<area shape="rect" id="node5" href="$group__uhi__msc__group.html#ga2e7cf8daaa331de6b805e644955f0045" title="Tests if the interface UHI Mass Storage is available The UHI Mass Storage can be busy during the enum..." alt="" coords="297,61,471,93"/>
+<area shape="rect" id="node7" href="$group__uhi__msc__group.html#ga75da7088270a7c90424b0530acda9001" title="Writes a RAM buffer in a LUN data section Note: The sector size used to define the data section is th..." alt="" coords="289,117,479,149"/>
+</map>

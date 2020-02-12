@@ -1,0 +1,5 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group___u_s_b_h__group.html" title="USB host Controller (UHC)" alt="" coords="192,5,408,37"/>
+<area shape="rect" id="node2" href="$group__uhi__group.html" title="USB Host Interface (UHI)" alt="" coords="197,61,403,93"/>
+<area shape="rect" id="node4" href="$group__uhd__group.html" title="USB Host Driver (UHD)" alt="" coords="204,117,396,149"/>
+</map>

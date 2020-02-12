@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="155,5,280,37"/>
+<area shape="rect" id="node9" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="156,61,279,93"/>
+<area shape="rect" id="node11" href="$group__dmad__functions.html#gaafb596e6912f388050a8ff98f54b8b8f" title="Allocate a XDMA channel for upper layer." alt="" coords="115,117,320,149"/>
+<area shape="rect" id="node13" href="$group__dmad__functions.html#ga8c7517080f70e93096364e916af6e6f2" title="Initialize xDMA driver instance." alt="" coords="143,173,292,205"/>
+<area shape="rect" id="node17" href="$group__dmad__functions.html#ga2a7947467c04eb39abee2471d846ee35" title="Enable clock of the xDMA peripheral, Enable the dma peripheral, configure configuration register for ..." alt="" coords="113,392,321,424"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="423,5,561,37"/>
+<area shape="rect" id="node7" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="661,60,853,92"/>
+<area shape="rect" id="node15" href="$group__dmac__functions.html#ga601f8b23ff2c1b632f4a905c5bbed8ce" title="Get XDMAC global type." alt="" coords="417,61,567,93"/>
+<area shape="rect" id="node20" href="$pmc_8c.html#a13d9ea02189cb126f06a7d9c7241314a" title="Get Periph Status for the given peripheral ID." alt="" coords="399,168,585,200"/>
+<area shape="rect" id="node22" href="$group__dmac__functions.html#ga0e8c1a293606c436f4ec8197faeae9c4" title="Disables the relevant channel of given XDMAC." alt="" coords="391,224,593,256"/>
+<area shape="rect" id="node24" href="$group__dmac__functions.html#ga78c4725b239a4bff988309fe0bf8034a" title="Enable interrupt with mask on the relevant channel of given XDMA." alt="" coords="385,280,599,312"/>
+<area shape="rect" id="node26" href="$group__dmac__functions.html#ga9538d464942bd9a66aa3a0c1a5146190" title="Disables XDMAC global interrupt." alt="" coords="409,336,575,368"/>
+<area shape="rect" id="node28" href="$group__dmac__functions.html#ga1f9c0fc1111b5f8917921091d69a0cad" title="Get interrupt status for the relevant channel of given XDMA." alt="" coords="395,392,589,424"/>
+<area shape="rect" id="node30" href="$group__dmac__functions.html#ga86b68edc3cf54526056c6dcccb646ec9" title="Set block length for the relevant channel of given XDMA." alt="" coords="389,448,595,480"/>
+<area shape="rect" id="node32" href="$group__dmac__functions.html#gae2acce4d8101a30f3090d6d0d636a919" title="Set configuration for the relevant channel of given XDMA." alt="" coords="381,504,603,536"/>
+<area shape="rect" id="node34" href="$group__dmac__functions.html#ga9aa1514d167d3e84e0baf8e3bfc1e7ba" title="Set next descriptor&#39;s address &amp; interface for the relevant channel of given XDMA..." alt="" coords="380,560,604,592"/>
+<area shape="rect" id="node36" href="$group__dmac__functions.html#ga6774da09c6d1694354385b930009c057" title="Set next descriptor&#39;s configuration for the relevant channel of given XDMA." alt="" coords="371,616,613,648"/>
+<area shape="rect" id="node38" href="$group__dmac__functions.html#gaca7a04b72e48d4b3a4144e27dc36d536" title="Set destination address for the relevant channel of given XDMA." alt="" coords="377,672,607,704"/>
+<area shape="rect" id="node40" href="$group__dmac__functions.html#ga0f07a2b35ff48d28f98e44ddad24a563" title="Set source address for the relevant channel of given XDMA." alt="" coords="391,728,593,760"/>
+</map>

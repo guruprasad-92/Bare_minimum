@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$board__memories_8h.html#a0e0e3f4ee2328faeb9f45c5fc591f8de" title="Configures the EBI for SDRAM (IS42S16100E&#45;7B) access." alt="" coords="140,32,348,64"/>
+<area shape="rect" id="node10" href="$isi_8h.html#ad4196e54823524f61258fa83cad1b42d" title="Disable ISI." alt="" coords="191,112,297,144"/>
+<area shape="rect" id="node13" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="203,168,285,200"/>
+<area shape="rect" id="node15" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="160,224,328,256"/>
+<area shape="rect" id="node17" href="$group__usbd__interface.html#ga71b9264662d74666e4b058984e3346e5" title="USBD_Connect" alt="" coords="176,280,312,312"/>
+<area shape="rect" id="node21" href="$group__usbd__interface.html#ga01ba3ff549b968edc152cdb23c2027d1" title="USBD_GetDriver" alt="" coords="172,336,316,368"/>
+<area shape="rect" id="node23" href="$group__usbd__interface.html#ga804bf63efb2d4420a3bf42984e807e72" title="USBD_GetState" alt="" coords="175,392,313,424"/>
+<area shape="rect" id="node25" href="$group__usbd__hal.html#gafcb94bdd4c0ea327621a187814ab4f9f" title="USBD_HAL_SetTransferCallback" alt="" coords="113,448,375,480"/>
+<area shape="rect" id="node27" href="$group__usbd__interface.html#ga1fd3982402055e37aa879c199e0b7fee" title="USBD_Init" alt="" coords="195,504,293,536"/>
+<area shape="rect" id="node33" href="$group__usbd__interface.html#ga127547288f97f428de35e4d816d3c52d" title="USBDDriver_Initialize" alt="" coords="155,560,333,592"/>
+<area shape="rect" id="node35" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="183,616,305,648"/>
+<area shape="rect" id="node5" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="467,5,597,37"/>
+<area shape="rect" id="node7" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="688,32,880,64"/>
+<area shape="rect" id="node19" href="$group__usbd__hal.html#ga214508a8f0f824cdcf40bca9ddac10f6" title="Enable Pull&#45;up, connect." alt="" coords="444,280,620,312"/>
+<area shape="rect" id="node29" href="$group__usbd__hal.html#ga3699059b9b9b52b7e55af6d070a7fe61" title="USBD_HAL_Init" alt="" coords="463,476,601,508"/>
+<area shape="rect" id="node31" href="$group__usbd__interface.html#ga5579e02a71a8f510005e873fc50a0f4a" title="USBDCallbacks_Initialized" alt="" coords="425,532,639,564"/>
+</map>

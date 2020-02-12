@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga52528649e180e7e7ed1b9533ec6337fd" title="GMAC_SetAddress" alt="" coords="127,75,289,107"/>
+<area shape="rect" id="node5" href="$gmacb__phy_8h.html#aa2c6c693eb5de616072181df0ae32374" title="Issue a Auto Negotiation of the PHY." alt="" coords="113,131,303,163"/>
+<area shape="rect" id="node17" href="$gmacb__phy_8h.html#a6e35f350f55ff843f4c44c38e063d469" title="Initialize the MACB instance." alt="" coords="152,817,264,849"/>
+<area shape="rect" id="node19" href="$gmacb__phy_8h.html#a8ad921a2a41fd8f431edb1b7e8c4a21e" title="Do a HW initialize to the PHY (via RSTC) and set up clocks &amp; PIOs This should be called only once..." alt="" coords="137,379,279,411"/>
+<area shape="rect" id="node23" href="$gmacb__phy_8h.html#a9ba3ad1335880787330bf3c859c5b32e" title="Issue a SW reset to reset all registers of the PHY." alt="" coords="389,211,549,243"/>
+<area shape="rect" id="node29" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="404,491,535,523"/>
+<area shape="rect" id="node31" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="635,545,827,577"/>
+<area shape="rect" id="node38" href="$group__gmacd__functions.html#ga8706caf686e1d073851111db1ba2663c" title="Initialize the GMAC with the Gmac controller address." alt="" coords="152,761,264,793"/>
+<area shape="rect" id="node55" href="$group__gmacd__functions.html#ga418589cbbef19de6084670d572b6ae27" title="GMACD_InitTransfer" alt="" coords="121,957,295,989"/>
+<area shape="rect" id="node67" href="$group__gmacd__functions.html#gaa45b1118c5a1147bde4e3026194bc965" title="Receive a packet with GMAC. If not enough buffer for the packet, the remaining data is lost but right..." alt="" coords="149,1013,267,1045"/>
+<area shape="rect" id="node71" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="124,1069,292,1101"/>
+<area shape="rect" id="node73" href="$twi_8h.html#ac90d2f32c99191c21f02626a9584b6bb" title="Configures a TWI peripheral to operate in master mode, at the given frequency (in Hz)..." alt="" coords="117,1125,299,1157"/>
+<area shape="rect" id="node75" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="147,1181,269,1213"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#ga6013c7006f83c59d4895a92e3f473804" title="Enable MDI with PHY." alt="" coords="647,49,815,81"/>
+<area shape="rect" id="node9" href="$group__gmac__defines.html#gabf89fc2e0cb8e9ec7e0b99a5a14cae50" title="Enable MDI with PHY." alt="" coords="649,158,812,190"/>
+<area shape="rect" id="node11" href="$group__gmac__defines.html#ga144f2054229d8431f26a425ff7fd1bef" title="Enable RGMII mode for GMAC, called once after auto negotiate." alt="" coords="383,105,556,137"/>
+<area shape="rect" id="node13" href="$gmacb__phy_8h.html#aced88b292369024663d7391ee02d2539" title="Dump all the useful registers." alt="" coords="369,49,569,81"/>
+<area shape="rect" id="node21" href="$group__gmac__defines.html#ga56d0b7353ef8be740202f6e5a902ca6a" title="Set MDC clock according to current board clock. Per 802.3, MDC should be less then 2..." alt="" coords="383,267,556,299"/>
+<area shape="rect" id="node27" href="$pio_8h.html#a2d4d88110e7ab4fc0732df6d35289e06" title="Sets a low output level on all the PIOs defined in the given Pin instance. This has no immediate effe..." alt="" coords="420,323,519,355"/>
+<area shape="rect" id="node33" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="428,379,511,411"/>
+<area shape="rect" id="node35" href="$timetick_8h.html#a2b6066c4eacf5089da661bd9e13bc9ed" title="Sync Wait for several ms." alt="" coords="441,435,497,467"/>
+<area shape="rect" id="node40" href="$group__gmac__defines.html#ga409a1719b06569ad5f4efe03d21ab1dd" title="GMAC_ClearRxStatus" alt="" coords="379,649,560,681"/>
+<area shape="rect" id="node42" href="$group__gmac__defines.html#ga9ae76d6d8ceef0dafbe72bb34864bc65" title="GMAC_ClearStatistics" alt="" coords="379,705,560,737"/>
+<area shape="rect" id="node44" href="$group__gmac__defines.html#ga620df07c4598d12a88be4e3715eafe7e" title="GMAC_ClearTxStatus" alt="" coords="380,761,559,793"/>
+<area shape="rect" id="node46" href="$group__gmac__defines.html#ga6939e2e68cc4b238caeab75414dd62b9" title="GMAC_Configure" alt="" coords="395,817,544,849"/>
+<area shape="rect" id="node48" href="$group__gmac__defines.html#gae03425042713a644dbec300e14ea4d6d" title="GMAC_DisableAllQueueIt" alt="" coords="367,873,572,905"/>
+<area shape="rect" id="node50" href="$group__gmac__defines.html#ga9e845a27fa9a4f30f4f53684ca5934c5" title="GMAC_GetItStatus" alt="" coords="391,929,548,961"/>
+<area shape="rect" id="node52" href="$group__gmac__defines.html#ga4dfdc785358f1239d80a46dc2108a15c" title="GMAC_NetworkControl" alt="" coords="375,985,564,1017"/>
+<area shape="rect" id="node57" href="$group__gmac__defines.html#ga7ada4663e83402d9ca6da62f166e115f" title="GMAC_EnableIt" alt="" coords="400,1153,539,1185"/>
+<area shape="rect" id="node59" href="$group__gmac__defines.html#ga3caa9d3dc5ec1e3e32e9e017702ef51e" title="GMAC_ReceiveEnable" alt="" coords="376,1209,563,1241"/>
+<area shape="rect" id="node61" href="$group__gmac__defines.html#gab9a3c958b148a17ac3bff5cbc107b3bc" title="GMAC_SetDMAConfig" alt="" coords="376,1265,563,1297"/>
+<area shape="rect" id="node63" href="$group__gmac__defines.html#gaf6fe272b7c94b53548c728c9b336cc5e" title="GMAC_StatisticsWriteEnable" alt="" coords="352,1041,587,1073"/>
+<area shape="rect" id="node65" href="$group__gmac__defines.html#ga43e952eb0a8ec8d8131ac69b6a30842d" title="GMAC_TransmitEnable" alt="" coords="375,1097,564,1129"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__clock.html#ga78ab77b57cf2e00089f0a3a22508524c" title="clock_init" alt="" coords="159,164,249,196"/>
+<area shape="rect" id="node5" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="344,52,536,84"/>
+<area shape="rect" id="node13" href="$group__uipconvfunc.html#gaa22b04cac8cf283ca12f028578bebc06" title="htons" alt="" coords="173,108,235,140"/>
+<area shape="rect" id="node15" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="139,52,269,84"/>
+<area shape="rect" id="node19" href="$group__timer.html#ga6d71dececfce707c668e6257aad5906e" title="timer_expired" alt="" coords="144,220,264,252"/>
+<area shape="rect" id="node21" href="$group__timer.html#gaedaf3e48c2b04229b85455fb948468d6" title="timer_reset" alt="" coords="153,276,255,308"/>
+<area shape="rect" id="node23" href="$group__timer.html#ga6614d96fdfcd95c95ec6e6f63071ff51" title="timer_set" alt="" coords="160,332,248,364"/>
+<area shape="rect" id="node25" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="120,388,288,420"/>
+<area shape="rect" id="node27" href="$twi_8h.html#ac90d2f32c99191c21f02626a9584b6bb" title="Configures a TWI peripheral to operate in master mode, at the given frequency (in Hz)..." alt="" coords="113,444,295,476"/>
+<area shape="rect" id="node29" href="$group__uiparp.html#ga902c4a360134096224bc2655f623aa5f" title="uip_arp_arpin" alt="" coords="143,500,265,532"/>
+<area shape="rect" id="node31" href="$group__uiparp.html#ga54b27e45df15e10a0eb1a3e3a91417d2" title="uip_arp_out" alt="" coords="151,556,257,588"/>
+<area shape="rect" id="node33" href="$group__uiparp.html#ga058a8e6025f67b021862281f1911fcef" title="uip_arp_timer" alt="" coords="143,612,265,644"/>
+<area shape="rect" id="node35" href="$group__uip.html#gac48ed5f0d27721ef62a3ed02a5ad8d2e" title="uip_init" alt="" coords="167,668,241,700"/>
+<area shape="rect" id="node37" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="143,724,265,756"/>
+<area shape="rect" id="node7" href="$tc_8h.html#a4f65db5c58b90e03f0b358cb0385db43" title="Configures a Timer Counter Channel." alt="" coords="379,108,501,140"/>
+<area shape="rect" id="node9" href="$tc_8h.html#ab49a1357d43f97cfc7846ddef6c1b470" title="Find best MCK divisor." alt="" coords="359,164,521,196"/>
+<area shape="rect" id="node11" href="$tc_8h.html#af895f2ccec86be21d6126d5d55a54db2" title="Reset and Start the TC Channel." alt="" coords="397,220,483,252"/>
+</map>

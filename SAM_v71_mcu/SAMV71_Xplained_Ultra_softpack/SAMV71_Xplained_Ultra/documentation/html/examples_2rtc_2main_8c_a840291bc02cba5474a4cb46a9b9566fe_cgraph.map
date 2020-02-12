@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="141,5,267,37"/>
+<area shape="rect" id="node7" href="$rtc__calib_8h.html#a1b04a85158ab78507b4492acc1587d77" title="RTC calibration for Temperature or PPM drift." alt="" coords="113,61,295,93"/>
+<area shape="rect" id="node9" href="$rtc_8h.html#a3431c6ec7facd6d9abd9b566e326c796" title="Enables the selected interrupt sources of the RTC." alt="" coords="143,117,265,149"/>
+<area shape="rect" id="node11" href="$rtc_8h.html#ac01c8087e053a6799bb85d2f924bbd13" title="Sets the current year, month and day in the RTC. Month, day and week values must be numbered starting..." alt="" coords="144,173,264,205"/>
+<area shape="rect" id="node13" href="$rtc_8h.html#a957ba61805f5e6dc71c3c5dd27303b58" title="Sets a date alarm in the RTC. The alarm will match only the provided values; Passing a null&#45;pointer d..." alt="" coords="123,229,285,261"/>
+<area shape="rect" id="node15" href="$rtc_8h.html#a2079fec0d71c827ce65d8ee0ffb68182" title="Sets the RTC in either 12 or 24 hour mode." alt="" coords="123,285,285,317"/>
+<area shape="rect" id="node17" href="$rtc_8h.html#a27946a2582e70d5d362fab248eb14b92" title="Sets the current time in the RTC." alt="" coords="143,341,265,373"/>
+<area shape="rect" id="node19" href="$rtc_8h.html#a437c843a3102b066f487e8ab90f6a671" title="Sets a time alarm on the RTC. The match is performed only on the provided variables; Setting all poin..." alt="" coords="123,397,285,429"/>
+<area shape="rect" id="node21" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="143,453,265,485"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="344,5,483,37"/>
+</map>

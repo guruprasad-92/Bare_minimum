@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$examples_2usart__hw__handshaking_2main_8c.html#ac18222aa001680a944d320c723b230da" title="USART hardware handshaking configuration." alt="" coords="189,81,331,113"/>
+<area shape="rect" id="node5" href="$usart_8h.html#aa7360fa2d1dbee570c3adefe6efaf873" title="Enable interrupt." alt="" coords="501,28,643,60"/>
+<area shape="rect" id="node13" href="$group__usbd__cdc.html#ga777f3bd5a1512c7ef3c765e606617a3d" title="CDCDSerialPort_GetControlLineState" alt="" coords="112,137,408,169"/>
+<area shape="rect" id="node15" href="$group__usbd__cdc.html#ga8999bdf9f9412e4545f777ef2764cca7" title="CDCDSerialPort_Read" alt="" coords="165,193,355,225"/>
+<area shape="rect" id="node17" href="$group__usbd__composite__cdccdc.html#ga1e93b0d8c0a284b7479f227aaa2acb82" title="DUALCDCDDriver_GetSerialPort" alt="" coords="129,249,391,281"/>
+<area shape="rect" id="node19" href="$group__usbd__composite__cdccdc.html#ga2ff92f5d6611f4cc29bc6049b39b443c" title="DUALCDCDDriver_Initialize" alt="" coords="148,305,372,337"/>
+<area shape="rect" id="node21" href="$pio__it_8h.html#ad31e05d6debb1e88af6124cd7751af22" title="Initializes the PIO interrupt management logic." alt="" coords="479,324,665,356"/>
+<area shape="rect" id="node25" href="$tc_8h.html#af895f2ccec86be21d6126d5d55a54db2" title="Reset and Start the TC Channel." alt="" coords="217,412,303,444"/>
+<area shape="rect" id="node28" href="$group__usbd__interface.html#ga71b9264662d74666e4b058984e3346e5" title="USBD_Connect" alt="" coords="192,468,328,500"/>
+<area shape="rect" id="node32" href="$group__usbd__interface.html#ga804bf63efb2d4420a3bf42984e807e72" title="USBD_GetState" alt="" coords="191,524,329,556"/>
+<area shape="rect" id="node34" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="199,580,321,612"/>
+<area shape="rect" id="node7" href="$usart_8h.html#ae70c9ce0e4cf3d14158f0faf36a357a2" title="Enable Rx Timeout for USART." alt="" coords="457,84,687,116"/>
+<area shape="rect" id="node9" href="$usart__dma_8h.html#a3327e28c21222fe643b4533c203976f0" title="Initializes the USARTDma structure and the corresponding USART &amp; DMA . hardware select value..." alt="" coords="488,209,656,241"/>
+<area shape="rect" id="node11" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="736,249,928,281"/>
+<area shape="rect" id="node30" href="$group__usbd__hal.html#ga214508a8f0f824cdcf40bca9ddac10f6" title="Enable Pull&#45;up, connect." alt="" coords="484,468,660,500"/>
+</map>

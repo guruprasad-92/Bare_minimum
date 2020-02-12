@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga56d0b7353ef8be740202f6e5a902ca6a" title="Set MDC clock according to current board clock. Per 802.3, MDC should be less then 2..." alt="" coords="196,5,369,37"/>
+<area shape="rect" id="node5" href="$gmacb__phy_8h.html#a9ba3ad1335880787330bf3c859c5b32e" title="Issue a SW reset to reset all registers of the PHY." alt="" coords="203,61,363,93"/>
+<area shape="rect" id="node11" href="$pio_8h.html#a2d4d88110e7ab4fc0732df6d35289e06" title="Sets a low output level on all the PIOs defined in the given Pin instance. This has no immediate effe..." alt="" coords="233,117,332,149"/>
+<area shape="rect" id="node13" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="217,173,348,205"/>
+<area shape="rect" id="node17" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="241,229,324,261"/>
+<area shape="rect" id="node19" href="$timetick_8h.html#a2b6066c4eacf5089da661bd9e13bc9ed" title="Sync Wait for several ms." alt="" coords="255,285,311,317"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#ga6013c7006f83c59d4895a92e3f473804" title="Enable MDI with PHY." alt="" coords="431,33,599,65"/>
+<area shape="rect" id="node9" href="$group__gmac__defines.html#gabf89fc2e0cb8e9ec7e0b99a5a14cae50" title="Enable MDI with PHY." alt="" coords="433,89,596,121"/>
+<area shape="rect" id="node15" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="419,173,611,205"/>
+<area shape="rect" id="node21" href="$timetick_8h.html#a125704795ef25b9a4887b18916658f2d" title="Get Delayed number of tick." alt="" coords="444,285,585,317"/>
+</map>

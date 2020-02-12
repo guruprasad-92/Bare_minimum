@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dbg__console_8h.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="153,5,279,37"/>
+<area shape="rect" id="node9" href="$dbg__console_8h.html#ae94f37e8259b6f44416c77bd0aac3c6b" title="Outputs a character on the UART line." alt="" coords="153,61,279,93"/>
+<area shape="rect" id="node12" href="$led_8h.html#a771437772006fafea906ca1613bb5593" title="LED_Configure" alt="" coords="407,87,540,119"/>
+<area shape="rect" id="node15" href="$led_8h.html#a7fd513ea5e027a30e20ef05242422f2a" title="LED_Toggle" alt="" coords="161,168,271,200"/>
+<area shape="rect" id="node23" href="$mpu_8c.html#a5bdbf8327da8abb7c67a214586df72f4" title="Calculate region size for the RASR." alt="" coords="112,224,320,256"/>
+<area shape="rect" id="node25" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="155,280,277,312"/>
+<area shape="rect" id="node5" href="$dbg__console_8h.html#a7fd93dda53e8b074935d6ece79bc0396" title="Configures an USART peripheral with the specified parameters." alt="" coords="404,31,543,63"/>
+<area shape="rect" id="node7" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="627,59,757,91"/>
+<area shape="rect" id="node17" href="$pio_8h.html#a2d4d88110e7ab4fc0732df6d35289e06" title="Sets a low output level on all the PIOs defined in the given Pin instance. This has no immediate effe..." alt="" coords="424,143,523,175"/>
+<area shape="rect" id="node19" href="$pio_8h.html#a6226a6942c31e5f561c5e2b4d811f824" title="Returns 1 if one or more PIO of the given Pin are configured to output a high level (even if they are..." alt="" coords="368,199,579,231"/>
+<area shape="rect" id="node21" href="$pio_8h.html#aac9a3cac1a51b45f82b30bd7a29826a6" title="Sets a high output level on all the PIOs defined in the given Pin instance. This has no immediate eff..." alt="" coords="432,255,515,287"/>
+</map>

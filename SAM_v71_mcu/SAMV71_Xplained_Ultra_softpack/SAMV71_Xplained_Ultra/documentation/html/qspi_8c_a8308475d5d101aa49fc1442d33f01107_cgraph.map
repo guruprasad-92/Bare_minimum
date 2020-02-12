@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$qspi_8h.html#a0cee5ee97a2b6575ccf9d56d3c5fce64" title="Ends ongoing transfer by releasing CS of QSPI peripheral." alt="" coords="308,5,468,37"/>
+<area shape="rect" id="node7" href="$qspi_8c.html#a15a99043cebbb701093d11a15f78a419" title="Reads the Instruction frame of QSPI." alt="" coords="304,61,472,93"/>
+<area shape="rect" id="node9" href="$qspi_8c.html#afde5ea34d85fcecb4a538250325d3c6c" title="Configures instruction register with a given command for QSPI." alt="" coords="328,117,448,149"/>
+<area shape="rect" id="node11" href="$qspi_8c.html#ab6228d04866fe8947d7fafd5d04b65cf" title="Configures instruction frame register of QSPI." alt="" coords="305,173,471,205"/>
+<area shape="rect" id="node5" href="$qspi_8h.html#a84307d724b3e124e1d4cced163d3074d" title="Get the current status register of the given QSPI peripheral." alt="" coords="521,5,660,37"/>
+</map>

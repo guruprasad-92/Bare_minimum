@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga409a1719b06569ad5f4efe03d21ab1dd" title="GMAC_ClearRxStatus" alt="" coords="181,5,363,37"/>
+<area shape="rect" id="node5" href="$group__gmac__defines.html#ga9ae76d6d8ceef0dafbe72bb34864bc65" title="GMAC_ClearStatistics" alt="" coords="181,61,363,93"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#ga620df07c4598d12a88be4e3715eafe7e" title="GMAC_ClearTxStatus" alt="" coords="183,117,361,149"/>
+<area shape="rect" id="node9" href="$group__gmac__defines.html#ga6939e2e68cc4b238caeab75414dd62b9" title="GMAC_Configure" alt="" coords="197,173,347,205"/>
+<area shape="rect" id="node11" href="$group__gmac__defines.html#gae03425042713a644dbec300e14ea4d6d" title="GMAC_DisableAllQueueIt" alt="" coords="169,229,375,261"/>
+<area shape="rect" id="node13" href="$group__gmac__defines.html#ga9e845a27fa9a4f30f4f53684ca5934c5" title="GMAC_GetItStatus" alt="" coords="193,285,351,317"/>
+<area shape="rect" id="node15" href="$group__gmac__defines.html#ga4dfdc785358f1239d80a46dc2108a15c" title="GMAC_NetworkControl" alt="" coords="177,341,367,373"/>
+<area shape="rect" id="node17" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="176,397,368,429"/>
+</map>

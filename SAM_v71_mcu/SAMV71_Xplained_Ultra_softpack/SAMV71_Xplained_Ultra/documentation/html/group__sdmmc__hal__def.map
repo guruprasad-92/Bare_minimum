@@ -1,0 +1,6 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__sdmmc__ioctrls.html" title="SD/MMC IO Control Codes" alt="" coords="891,5,1109,37"/>
+<area shape="rect" id="node2" href="$group__sdmmc__hal.html" title="SD/MMC Lib HardwareAccessLayer(HAL) Interface" alt="" coords="7,61,404,93"/>
+<area shape="rect" id="node3" href="$group__sdmmc__cmd__op.html" title="SD/MMC Command Operations" alt="" coords="875,61,1125,93"/>
+<area shape="rect" id="node5" href="$group__sdmmc__cmd__types.html" title="SD/MMC General Types" alt="" coords="901,117,1099,149"/>
+</map>

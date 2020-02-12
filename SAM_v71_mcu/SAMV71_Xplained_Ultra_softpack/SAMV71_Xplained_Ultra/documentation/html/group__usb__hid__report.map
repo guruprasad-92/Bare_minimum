@@ -1,0 +1,9 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node3" href="$group__usb__hid__main.html" title="HID Main Item Tags" alt="" coords="347,5,512,37"/>
+<area shape="rect" id="node4" href="$group__usb__hid__global.html" title="HID Global Items" alt="" coords="357,61,501,93"/>
+<area shape="rect" id="node5" href="$group__usb__hid__item.html" title="HID Items Definitions" alt="" coords="341,117,517,149"/>
+<area shape="rect" id="node6" href="$group__usb__hid__collection.html" title="HID Collection Items" alt="" coords="344,173,515,205"/>
+<area shape="rect" id="node7" href="$group__usb__hid__data.html" title="HID Items for Data Fields" alt="" coords="327,229,532,261"/>
+<area shape="rect" id="node8" href="$group__usb__hid__local.html" title="HID Local Items" alt="" coords="360,285,499,317"/>
+<area shape="rect" id="node2" href="$group__usb__hid.html" title="Usb_hid" alt="" coords="7,145,87,177"/>
+</map>

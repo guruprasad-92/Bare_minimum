@@ -1,0 +1,16 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__cdc__serial__states.html" title="CDC SerialState bits" alt="" coords="444,5,615,37"/>
+<area shape="rect" id="node2" href="$group__usb__cdc__stop.html" title="USB CDC LineCoding StopBits" alt="" coords="405,61,653,93"/>
+<area shape="rect" id="node4" href="$group__usb__cdc__desc__type.html" title="CDC Descriptor Types" alt="" coords="436,117,623,149"/>
+<area shape="rect" id="node5" href="$group__usb__cdc__acm.html" title="USB CDC ACM Capabilities" alt="" coords="416,173,643,205"/>
+<area shape="rect" id="node6" href="$group__usb__cdc__if__desc.html" title="USB CDC Communication Interface Descriptor" alt="" coords="347,229,712,261"/>
+<area shape="rect" id="node7" href="$group__usb__cdc__data__if.html" title="USB CDC Data Interface Values" alt="" coords="400,285,659,317"/>
+<area shape="rect" id="node8" href="$group__usb__cdc__parity.html" title="USB CDC LineCoding ParityCheckings" alt="" coords="375,341,684,373"/>
+<area shape="rect" id="node10" href="$group__usb__cdc__request.html" title="USB CDC Request Codes" alt="" coords="424,397,635,429"/>
+<area shape="rect" id="node11" href="$group__usb__cdc__desc__subtype.html" title="CDC Descriptor Subtypes" alt="" coords="424,453,635,485"/>
+<area shape="rect" id="node12" href="$group__usb__cdc__ctrl__line__state.html" title="USB CDC ControlLineState bitmap" alt="" coords="392,509,667,541"/>
+<area shape="rect" id="node13" href="$group__usb__cdc__ver.html" title="USB CDC Specification Release Numbers" alt="" coords="365,565,693,597"/>
+<area shape="rect" id="node14" href="$group__usb__cdc__descriptor.html" title="USB CDC Device Descriptor Values" alt="" coords="387,621,672,653"/>
+<area shape="rect" id="node15" href="$group__usb__cdc__cb__man__desc.html" title="USB CDC CallManagement Capabilities" alt="" coords="375,677,684,709"/>
+<area shape="rect" id="node9" href="$group__usb__device__stack.html" title="USB Stack Device" alt="" coords="7,341,161,373"/>
+</map>

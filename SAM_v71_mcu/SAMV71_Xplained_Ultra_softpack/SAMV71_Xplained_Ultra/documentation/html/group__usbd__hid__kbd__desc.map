@@ -1,0 +1,5 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__usbd__hid__kbd__keys.html" title="HID Keypad keys" alt="" coords="563,5,712,37"/>
+<area shape="rect" id="node2" href="$group__usbd__hid__kbd__polling.html" title="HID Keyboard Default Polling Rates" alt="" coords="497,61,777,93"/>
+<area shape="rect" id="node3" href="$group__usbd__hid__key.html" title="Usbd_hid_key" alt="" coords="5,33,131,65"/>
+</map>

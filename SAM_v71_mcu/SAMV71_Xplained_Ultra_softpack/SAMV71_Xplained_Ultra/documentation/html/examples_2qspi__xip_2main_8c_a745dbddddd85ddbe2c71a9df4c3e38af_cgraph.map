@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$mpu_8c.html#a5bdbf8327da8abb7c67a214586df72f4" title="Calculate region size for the RASR." alt="" coords="240,61,448,93"/>
+<area shape="rect" id="node5" href="$mpu_8c.html#aaa88b8f32a6a4c83d2ddc9a287d82ef2" title="Update MPU regions." alt="" coords="256,117,432,149"/>
+<area shape="rect" id="node13" href="$pio_8h.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins..." alt="" coords="279,173,409,205"/>
+<area shape="rect" id="node17" href="$s25fl1_8h.html#afb88d105142c2a47764cc9fba6012d60" title="Erases all the content of the memory chip." alt="" coords="256,229,432,261"/>
+<area shape="rect" id="node21" href="$s25fl1_8h.html#a844d03d4455661877b4cd85d753cc03a" title="Enables critical writes operation on a serial flash device, such as sector protection, status register, etc." alt="" coords="255,285,433,317"/>
+<area shape="rect" id="node24" href="$s25fl1_8h.html#a650c5d2bd603e1f26fb235ecf2bfd09f" title="Reads data from the specified address on the serial flash." alt="" coords="247,341,441,373"/>
+<area shape="rect" id="node37" href="$s25fl1_8h.html#a203cdd2db6776cf3b6884d2dd6817cdf" title="Unprotected the contents of the serial flash device." alt="" coords="259,481,429,513"/>
+<area shape="rect" id="node39" href="$s25fl1_8h.html#a6e299269e367ae9838e0698dbe750e10" title="Writes data at the specified address on the serial firmware dataflash. The page(s) to program must ha..." alt="" coords="275,425,413,457"/>
+<area shape="rect" id="node47" href="$timetick_8h.html#aa2dae3f4bc7d890535afc5bc707feacc" title="Configures the System Timer. Systick interrupt handler will generates 1ms interrupt and increase a ti..." alt="" coords="260,537,428,569"/>
+<area shape="rect" id="node49" href="$wdt_8h.html#a2c90c26f4d7ba23f6e336bba01f5822b" title="Disable watchdog." alt="" coords="283,593,405,625"/>
+<area shape="rect" id="node7" href="$mpu_8c.html#adce5d5bd104ef885cfc8692921b6fdc2" title="Disable the current active region." alt="" coords="535,5,705,37"/>
+<area shape="rect" id="node9" href="$mpu_8c.html#a5b599da2790baa9affb17efe20e758a1" title="Setup a memory region." alt="" coords="549,61,691,93"/>
+<area shape="rect" id="node11" href="$mpu_8c.html#a7962790150d8399f91306ea1551d8783" title="Set active memory region." alt="" coords="533,117,707,149"/>
+<area shape="rect" id="node15" href="$pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="524,173,716,205"/>
+<area shape="rect" id="node19" href="$timetick_8h.html#a2b6066c4eacf5089da661bd9e13bc9ed" title="Sync Wait for several ms." alt="" coords="592,229,648,261"/>
+<area shape="rect" id="node26" href="$qspi__dma_8h.html#a3f74a9c30f8d87121341efbe86f7b992" title="Disables a QSPI Rx channel. This function will de&#45;allocate previous allocated dma Rx channel for QSPI..." alt="" coords="497,285,743,317"/>
+<area shape="rect" id="node28" href="$qspi__dma_8h.html#a3bb12a4d22e8c71f840710b19c769067" title="Disables a QSPI SPI Rx and Tx channels. This function will de&#45;allocate privious allocated dma Rx..." alt="" coords="511,453,729,485"/>
+<area shape="rect" id="node30" href="$qspi__dma_8h.html#a0d664a2d9fdc7a5b276553ef98ebb085" title="Enables a QSPI Rx channel. This function will allocate a dma Rx channel for QSPI." alt="" coords="499,341,741,373"/>
+<area shape="rect" id="node32" href="$qspi__dma_8h.html#aa4c44dd6ea57f7d345dc1cea9e764b33" title="Enables a QSPI SPI Rx channel. This function will allocate a dma Rx channel for QSPI SPI mode..." alt="" coords="512,509,728,541"/>
+<area shape="rect" id="node34" href="$qspi__dma_8h.html#a4dd4aa5fce406ddb2b215df6397142b8" title="Check if the QSPI driver is busy." alt="" coords="555,397,685,429"/>
+<area shape="rect" id="node41" href="$qspi__dma_8h.html#a475ae8a5f6c8d35f9942611d5512144a" title="Disables a QSPI Tx channel. This function will de&#45;allocate previous allocated dma Tx channel for QSPI..." alt="" coords="497,565,743,597"/>
+<area shape="rect" id="node44" href="$qspi__dma_8h.html#a98964de2ac702a42bac23703636aa744" title="Enables a QSPI Tx channel. This function will allocate a dma Tx channel for QSPI." alt="" coords="500,621,740,653"/>
+</map>

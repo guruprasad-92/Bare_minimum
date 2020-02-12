@@ -1,0 +1,5 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__uhi__cdc__group__internal.html" title="Implementation of UHI Communication Device Class" alt="" coords="603,5,1003,37"/>
+<area shape="rect" id="node2" href="$group__uhi__group.html" title="USB Host Interface (UHI)" alt="" coords="7,33,212,65"/>
+<area shape="rect" id="node4" href="$group__uhi__cdc__group__uhc.html" title="Interface with USB Host Core (UHC)" alt="" coords="660,61,945,93"/>
+</map>

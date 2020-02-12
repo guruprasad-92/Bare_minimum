@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__usbd__hal.html#gaa9aba8ccdad2272b61db48b43466043b" title="Reset endpoints and disable them.Terminate transfer if there is any, with given status;Reset the endp..." alt="" coords="280,5,467,37"/>
+<area shape="rect" id="node5" href="$group__usbd__hal.html#ga05c8714f0e31ed119a4ab594d687691a" title="USBD_HAL_SetConfiguration" alt="" coords="255,61,492,93"/>
+</map>

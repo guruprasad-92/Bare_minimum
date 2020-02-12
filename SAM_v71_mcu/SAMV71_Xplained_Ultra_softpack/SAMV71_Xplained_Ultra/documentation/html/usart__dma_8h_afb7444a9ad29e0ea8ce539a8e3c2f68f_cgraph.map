@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$usart_8h.html#a246df8753ea10e0ac19913c1dac062fb" title="Enables or disables the receiver of an USART peripheral." alt="" coords="292,5,521,37"/>
+<area shape="rect" id="node5" href="$group__dmad__functions.html#ga2a3178c1d2615b7a4d7a0005662cdd89" title="Free the specified xDMA channel." alt="" coords="315,61,499,93"/>
+<area shape="rect" id="node7" href="$group__dmad__functions.html#gaa0af49f87c84aaa20bee1f055d31ad2d" title="Set the callback function for xDMA channel transfer." alt="" coords="319,117,495,149"/>
+<area shape="rect" id="node9" href="$group__dmad__functions.html#ga6be5cec75618250adb227d7588ae7078" title="Stop DMA transfer." alt="" coords="315,173,499,205"/>
+<area shape="rect" id="node11" href="$group__dmac__functions.html#ga0e8c1a293606c436f4ec8197faeae9c4" title="Disables the relevant channel of given XDMAC." alt="" coords="583,89,785,121"/>
+<area shape="rect" id="node13" href="$group__dmac__functions.html#ga78c4725b239a4bff988309fe0bf8034a" title="Enable interrupt with mask on the relevant channel of given XDMA." alt="" coords="577,145,791,177"/>
+<area shape="rect" id="node15" href="$group__dmac__functions.html#ga1f9c0fc1111b5f8917921091d69a0cad" title="Get interrupt status for the relevant channel of given XDMA." alt="" coords="587,201,781,233"/>
+<area shape="rect" id="node17" href="$group__dmac__functions.html#gad262380a3acfc2a2a7481bbecfef1d39" title="Get Global channel status of given XDMAC." alt="" coords="571,257,797,289"/>
+</map>

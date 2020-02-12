@@ -1,0 +1,8 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__gmac__structs.html" title="GMAC Data Structs" alt="" coords="493,5,659,37"/>
+<area shape="rect" id="node3" href="$group__gmac__defines.html" title="GMAC Defines" alt="" coords="511,61,641,93"/>
+<area shape="rect" id="node4" href="$group__gmac__functions.html" title="GMAC Functions" alt="" coords="503,117,649,149"/>
+<area shape="rect" id="node6" href="$group__gmacd__module.html" title="Gmacd_module" alt="" coords="509,173,643,205"/>
+<area shape="rect" id="node7" href="$group__gmacb__module.html" title="Ethernet GMACB Driver" alt="" coords="479,229,673,261"/>
+<area shape="rect" id="node5" href="$group__peripherals__module.html" title="Working with Peripherals" alt="" coords="5,117,211,149"/>
+</map>

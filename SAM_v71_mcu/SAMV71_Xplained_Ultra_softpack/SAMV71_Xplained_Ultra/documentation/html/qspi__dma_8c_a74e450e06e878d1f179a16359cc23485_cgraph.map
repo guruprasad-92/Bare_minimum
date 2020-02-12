@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$qspi_8h.html#ac6aebb1622380bf45bc83e7ca20a17f9" title="Configures QSPI/SPI." alt="" coords="209,117,415,149"/>
+<area shape="rect" id="node13" href="$group__dmad__functions.html#ga8c7517080f70e93096364e916af6e6f2" title="Initialize xDMA driver instance." alt="" coords="237,201,387,233"/>
+<area shape="rect" id="node5" href="$qspi_8c.html#a540d57bb3a49cb62569937d3f54f7085" title="Configure mode register of QSPI." alt="" coords="485,5,627,37"/>
+<area shape="rect" id="node7" href="$qspi_8c.html#afde6147001d6981039fdb672af9fe0d4" title="Configure QSPI/SPI mode." alt="" coords="465,61,647,93"/>
+<area shape="rect" id="node9" href="$qspi_8h.html#a24e4ad68361409458213083438db8449" title="Disables a QSPI peripheral." alt="" coords="495,117,617,149"/>
+<area shape="rect" id="node11" href="$qspi_8h.html#ad41ddc810992fae62c42f245a989381a" title="Resets a QSPI peripheral." alt="" coords="489,173,623,205"/>
+<area shape="rect" id="node15" href="$group__dmac__functions.html#ga601f8b23ff2c1b632f4a905c5bbed8ce" title="Get XDMAC global type." alt="" coords="481,229,631,261"/>
+</map>

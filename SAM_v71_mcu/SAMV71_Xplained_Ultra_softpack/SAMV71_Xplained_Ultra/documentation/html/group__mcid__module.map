@@ -1,0 +1,7 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__mcid__functions.html" title="MCI Driver Functions" alt="" coords="784,5,960,37"/>
+<area shape="rect" id="node2" href="$group__sdmmc__hal.html" title="SD/MMC Lib HardwareAccessLayer(HAL) Interface" alt="" coords="7,89,404,121"/>
+<area shape="rect" id="node3" href="$group__mcid__structs.html" title="MCI Driver Data Structs" alt="" coords="775,61,969,93"/>
+<area shape="rect" id="node4" href="$group__mcid__defines.html" title="MCI Driver Defines" alt="" coords="791,117,953,149"/>
+<area shape="rect" id="node6" href="$group__hsmci__module.html" title="Working with HSMCI" alt="" coords="785,173,959,205"/>
+</map>

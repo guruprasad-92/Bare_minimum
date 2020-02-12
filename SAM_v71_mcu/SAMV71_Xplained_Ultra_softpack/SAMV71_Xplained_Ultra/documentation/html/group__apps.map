@@ -1,0 +1,7 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node2" href="$group__httpd.html" title="Web server" alt="" coords="145,5,252,37"/>
+<area shape="rect" id="node3" href="$group__webclient.html" title="Web client" alt="" coords="149,61,248,93"/>
+<area shape="rect" id="node4" href="$group__helloworld.html" title="Hello, world" alt="" coords="147,117,251,149"/>
+<area shape="rect" id="node5" href="$group__resolv.html" title="DNS resolver" alt="" coords="140,173,257,205"/>
+<area shape="rect" id="node6" href="$group__smtp.html" title="SMTP E&#45;mail sender" alt="" coords="113,229,284,261"/>
+</map>
